@@ -29717,3 +29717,799 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [07:14:08] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player baltacraft
 [07:14:08] [Thread-95/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
 [07:14:08] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[07:14:19] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 120 times.
+
+[07:14:19] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 120 times.
+
+[07:14:19] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 120 times.
+
+[07:14:19] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 120 times.
+
+[07:14:19] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 120 times.
+
+[07:14:19] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[07:14:24] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[07:14:26] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[07:14:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[07:14:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:15:09] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 125 times.
+
+[07:15:09] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 125 times.
+
+[07:15:09] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 125 times.
+
+[07:15:09] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 125 times.
+
+[07:15:09] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 125 times.
+
+[07:15:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! 6.430172736400152,0.0,-8.417732545767336
+[07:15:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:15:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:15:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:15:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:15:59] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 130 times.
+
+[07:15:59] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 130 times.
+
+[07:15:59] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 130 times.
+
+[07:15:59] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 130 times.
+
+[07:15:59] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 130 times.
+
+[07:16:00] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:16:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, -33] in dimension 0 (overworld) while populating chunk [-27, -32], causing cascading worldgen lag.
+[07:16:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:01] [Server thread/WARN] [FML]: Minecraft Comes Alive loaded a new chunk [-27, -33] in dimension 0 (overworld) while populating chunk [-26, -32], causing cascading worldgen lag.
+[07:16:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:02] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-25, -33] in dimension 0 (overworld) while populating chunk [-24, -32], causing cascading worldgen lag.
+[07:16:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:02] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-26, -33] in dimension 0 (overworld) while populating chunk [-24, -32], causing cascading worldgen lag.
+[07:16:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:02] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-25, -34] in dimension 0 (overworld) while populating chunk [-24, -32], causing cascading worldgen lag.
+[07:16:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:02] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-26, -34] in dimension 0 (overworld) while populating chunk [-25, -34], causing cascading worldgen lag.
+[07:16:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:02] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-32, -32] in dimension 0 (overworld) while populating chunk [-31, -32], causing cascading worldgen lag.
+[07:16:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:16:07] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-33, -35] in dimension 0 (overworld) while populating chunk [-32, -35], causing cascading worldgen lag.
+[07:16:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-29, -39] in dimension 0 (overworld) while populating chunk [-28, -39], causing cascading worldgen lag.
+[07:16:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-30, -39] in dimension 0 (overworld) while populating chunk [-28, -39], causing cascading worldgen lag.
+[07:16:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-29, -40] in dimension 0 (overworld) while populating chunk [-28, -39], causing cascading worldgen lag.
+[07:16:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:16] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -448 | -624 ], underground: false
+[07:16:16] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-18, -39] in dimension 0 (overworld) while populating chunk [-19, -39], causing cascading worldgen lag.
+[07:16:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:16] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-18, -40] in dimension 0 (overworld) while populating chunk [-19, -39], causing cascading worldgen lag.
+[07:16:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:16] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-19, -40] in dimension 0 (overworld) while populating chunk [-19, -39], causing cascading worldgen lag.
+[07:16:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:16] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-20, -40] in dimension 0 (overworld) while populating chunk [-19, -39], causing cascading worldgen lag.
+[07:16:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:16:19] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:16:21] [Server thread/INFO] [mca]: Villager death: Tyree. Caused by: inWall. UUID: 9922f82f-b60e-42dc-8df3-a3e3f0840007
+[07:16:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:16:26] [Server thread/INFO] [mca]: Villager death: Jassie. Caused by: inWall. UUID: 188a708b-9ba8-4ed6-8c15-0b1314b5f714
+[07:16:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [Herc was on a Roll!]
+[07:16:46] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Stymphalian Bird is 0.01
+[07:16:49] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 135 times.
+
+[07:16:49] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 135 times.
+
+[07:16:49] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 135 times.
+
+[07:16:49] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 135 times.
+
+[07:16:49] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 135 times.
+
+[07:16:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:16:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse moved wrongly!
+[07:17:00] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:02] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:02] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-29, -42] in dimension 0 (overworld) while populating chunk [-30, -42], causing cascading worldgen lag.
+[07:17:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:02] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:17:02] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:05] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:05] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:17:05] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:08] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:08] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:17:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-33, -48] in dimension 0 (overworld) while populating chunk [-32, -48], causing cascading worldgen lag.
+[07:17:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:28] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[07:17:32] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-31, -53] in dimension 0 (overworld) while populating chunk [-30, -52], causing cascading worldgen lag.
+[07:17:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:32] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -480 | -832 ], underground: false
+[07:17:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:17:35] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-44, -54] in dimension 0 (overworld) while populating chunk [-43, -54], causing cascading worldgen lag.
+[07:17:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:36] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-30, -55] in dimension 0 (overworld) while populating chunk [-29, -54], causing cascading worldgen lag.
+[07:17:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:40] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 140 times.
+
+[07:17:40] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 140 times.
+
+[07:17:40] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 140 times.
+
+[07:17:40] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 140 times.
+
+[07:17:40] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 140 times.
+
+[07:17:42] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:42] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:17:42] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:42] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:43] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:43] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:43] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-44, -58] in dimension 0 (overworld) while populating chunk [-43, -58], causing cascading worldgen lag.
+[07:17:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:43] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-45, -58] in dimension 0 (overworld) while populating chunk [-43, -58], causing cascading worldgen lag.
+[07:17:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2064ms behind, skipping 41 tick(s)
+[07:17:44] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:45] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:17:46] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:46] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [-25, -59] in dimension 0 (overworld) while populating chunk [-26, -59], causing cascading worldgen lag.
+[07:17:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:17:56] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-39, -60] in dimension 0 (overworld) while populating chunk [-38, -60], causing cascading worldgen lag.
+[07:17:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:17:56] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:56] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:17:56] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:17:58] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:00] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:01] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:18:01] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:18:03] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -62] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-22, -63] in dimension 0 (overworld) while populating chunk [-21, -62], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -336 | -992 ], underground: false
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -54] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -55] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -56] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -54] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -54] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -54] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -52] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -53] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -51] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -50] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -55] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -56] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -54] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -54] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:04] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -53] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -52] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -51] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -52] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -52] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -53] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -53] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -55] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:05] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -55] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -56] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-20, -57] in dimension 0 (overworld) while populating chunk [-20, -56], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -56] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -55] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -56] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -53] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -51] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -51] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -50] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -52] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -51] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -51] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-16, -51] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -50] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -50] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -50] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -49] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:06] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -48] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -49] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -49] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -48] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -47] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -47] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -49] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -49] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -52] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:07] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -53] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:08] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -58] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:08] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -57] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:08] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -57] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:08] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-21, -58] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:08] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-22, -58] in dimension 0 (overworld) while populating chunk [-22, -59], causing cascading worldgen lag.
+[07:18:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.5483070801019494,1.0,-9.491905024618063
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.3740901135274726,1.0,-10.07968840427111
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.255793955957415,1.0,-10.682803890682749
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.1513086014988403,1.0,-11.292267759337506
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.920357987002717,1.0,-11.856584844023473
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.621738333305757,2.0,-12.39674478473762
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.4158781847586397,2.0,-12.971777785062955
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.4008709892455045,2.0,-13.559339849740127
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.4890312193497266,2.0,-14.153248279476088
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.632930060666922,2.0,-14.750367539607055
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.8063856806140848,1.9231679985046384,-15.349297476683432
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.9086053744920264,1.7725465413369932,-15.697796569431034
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.0090671018006105,1.5510576895623984,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.107961074477089,1.2615077906826428,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.1243475805943035,0.906592060890901,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.1243475805943035,0.48889898586945435,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.1243475805943035,0.010914547315962864,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.1243475805943035,-0.5249737179006644,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.117454223332288,-1.0,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -3.02782516948173,-1.0,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.8921925174627177,-1.0,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.651238748687092,-0.4852138188017534,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.513541796766276,-0.06764516225192096,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.382106062101684,0.25655578180837324,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.2566472939199684,0.4910863730484891,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.150299273234168,0.639497555763981,-16.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0610749302616114,0.7051996569226873,-16.029021844267845
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.9872327388429767,0.6914679546082567,-16.083903616166936
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.9279012781496476,0.6014480259534309,-16.16167932679241
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.8842109406484724,0.43816088329532477,-16.25912494862132
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.8583535097218373,0.20450790693895726,-16.372523354004215
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.8518836930306861,-0.09672441741651028,-16.498118222974654
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.864289262704233,-0.4628599488535059,-16.633436231959763
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.8934831672740984,-0.8913285215847679,-16.777460144709835
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.9374039398339846,-1.0,-16.929436175013848
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0226197897573,-1.0,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.105855041020277,-1.0,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,-1.0,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,-1.0,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,-1.0,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,-1.0,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,-1.0,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,-1.0,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,-0.22782075121536138,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,0.4369482122556292,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,0.9985603357036865,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1145946709414147,1.4611006280654948,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.096144116209416,1.8284923320002235,-17.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.083371076191497,2.1045033298310756,-17.028734335675836
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.07566124394134,2.292752295811667,-17.083093952645868
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0724667805086483,2.3967146047628205,-17.16030619613275
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0761479456748475,2.399999976158128,-17.257898412534587
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0831119740309987,2.3231679746627663,-17.37366548930595
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0930036598640527,2.172546517495121,-17.50564090702187
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.105506230710489,2.0,-17.652070923608676
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1534676660612604,2.0,-18.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.215942516218547,2.0,-18.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.2861832052722093,2.0,-18.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.226238514046372,2.0,-18.0
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0966342214492215,2.0,-18.27905136346817
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0640971908599113,2.0,-18.71570950760679
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.0834989168588436,2.0,-19.236699897741914
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,2.0,-19.80281479130622
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,2.0,-20.3930749069699
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,2.0,-20.996254649575235
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.1243475805943035,2.0,-21.60634742696743
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.16115922294307,2.0,-22.220139231443
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.2176680411678262,2.0,-22.83591031156027
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.2847164254842482,2.0,-23.452740462610905
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.3574043214800895,2.0,-24.070137301402383
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.4331098077359457,2.0,-24.687837363505537
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.5104299463757798,2.0,-25.305699674357015
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.5872637659654174,2.0,-25.923818555307207
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.632902963208153,2.0,-26.544217955816293
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.483860615660433,2.0,-27.11553916449543
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -2.207725434849408,2.0,-27.642181269364755
+[07:18:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! -1.8623387966722476,2.0,-28.0
+[07:18:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! 2.3583668467840653,1.0,-19.06636626542206
+[07:18:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! 2.7606359904309556,1.0,-19.28619141400452
+[07:18:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! 3.1735143972814512,1.0,-19.623640616752823
+[07:18:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! 3.5920696093464812,1.0,-20.024028105714592
+[07:18:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Horse (vehicle of baltacraft) moved too quickly! 3.892651996145787,1.0,-20.51764242527736
+[07:18:09] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-38, -62] in dimension 0 (overworld) while populating chunk [-37, -62], causing cascading worldgen lag.
+[07:18:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:10] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6460ms behind, skipping 129 tick(s)
+[07:18:11] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-32, -64] in dimension 0 (overworld) while populating chunk [-32, -63], causing cascading worldgen lag.
+[07:18:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:12] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:13] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-27, -64] in dimension 0 (overworld) while populating chunk [-26, -64], causing cascading worldgen lag.
+[07:18:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:13] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-28, -64] in dimension 0 (overworld) while populating chunk [-27, -64], causing cascading worldgen lag.
+[07:18:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:13] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-28, -65] in dimension 0 (overworld) while populating chunk [-27, -64], causing cascading worldgen lag.
+[07:18:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:14] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-29, -65] in dimension 0 (overworld) while populating chunk [-29, -64], causing cascading worldgen lag.
+[07:18:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-35, -64] in dimension 0 (overworld) while populating chunk [-34, -64], causing cascading worldgen lag.
+[07:18:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-36, -64] in dimension 0 (overworld) while populating chunk [-34, -64], causing cascading worldgen lag.
+[07:18:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:15] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-35, -65] in dimension 0 (overworld) while populating chunk [-34, -64], causing cascading worldgen lag.
+[07:18:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:15] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -544 | -1024 ], underground: false
+[07:18:15] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-30, -65] in dimension 0 (overworld) while populating chunk [-30, -64], causing cascading worldgen lag.
+[07:18:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:19] [Server thread/INFO] [mca]: Villager death: Artie. Caused by: inWall. UUID: 43122de3-d8ee-4dcf-808d-e070b5a31ab8
+[07:18:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:18:26] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-40, -67] in dimension 0 (overworld) while populating chunk [-39, -67], causing cascading worldgen lag.
+[07:18:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:26] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-41, -67] in dimension 0 (overworld) while populating chunk [-39, -67], causing cascading worldgen lag.
+[07:18:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:27] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-47, -68] in dimension 0 (overworld) while populating chunk [-46, -67], causing cascading worldgen lag.
+[07:18:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:27] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ -736 | -1072 ], underground: false
+[07:18:27] [Server thread/INFO] [mca]: Villager death: Willie. Caused by: inWall. UUID: 51d61cf8-52ab-490b-97d2-1eed491434eb
+[07:18:27] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-40, -68] in dimension 0 (overworld) while populating chunk [-39, -68], causing cascading worldgen lag.
+[07:18:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:27] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-41, -68] in dimension 0 (overworld) while populating chunk [-39, -68], causing cascading worldgen lag.
+[07:18:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:30] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-46, -69] in dimension 0 (overworld) while populating chunk [-45, -69], causing cascading worldgen lag.
+[07:18:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3449ms behind, skipping 68 tick(s)
+[07:18:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-44, -72] in dimension 0 (overworld) while populating chunk [-44, -71], causing cascading worldgen lag.
+[07:18:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-30, -72] in dimension 0 (overworld) while populating chunk [-30, -71], causing cascading worldgen lag.
+[07:18:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, -72] in dimension 0 (overworld) while populating chunk [-27, -71], causing cascading worldgen lag.
+[07:18:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:34] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, -72] in dimension 0 (overworld) while populating chunk [-27, -71], causing cascading worldgen lag.
+[07:18:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:34] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-27, -72] in dimension 0 (overworld) while populating chunk [-26, -71], causing cascading worldgen lag.
+[07:18:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:35] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 145 times.
+
+[07:18:35] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 145 times.
+
+[07:18:35] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 145 times.
+
+[07:18:35] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 145 times.
+
+[07:18:35] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 145 times.
+
+[07:18:36] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:36] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:18:41] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-37, -73] in dimension 0 (overworld) while populating chunk [-36, -73], causing cascading worldgen lag.
+[07:18:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:42] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:18:42] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:44] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-39, -74] in dimension 0 (overworld) while populating chunk [-38, -74], causing cascading worldgen lag.
+[07:18:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:44] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:18:44] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:45] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-27, -75] in dimension 0 (overworld) while populating chunk [-26, -74], causing cascading worldgen lag.
+[07:18:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:45] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -416 | -1184 ], underground: false
+[07:18:45] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:18:48] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:48] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:18:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, -77] in dimension 0 (overworld) while populating chunk [-25, -76], causing cascading worldgen lag.
+[07:18:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:50] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-37, -78] in dimension 0 (overworld) while populating chunk [-37, -77], causing cascading worldgen lag.
+[07:18:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:50] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-38, -78] in dimension 0 (overworld) while populating chunk [-38, -77], causing cascading worldgen lag.
+[07:18:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:50] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-39, -77] in dimension 0 (overworld) while populating chunk [-38, -77], causing cascading worldgen lag.
+[07:18:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:50] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-39, -78] in dimension 0 (overworld) while populating chunk [-38, -77], causing cascading worldgen lag.
+[07:18:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:59] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-40, -79] in dimension 0 (overworld) while populating chunk [-40, -78], causing cascading worldgen lag.
+[07:18:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:18:59] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-41, -79] in dimension 0 (overworld) while populating chunk [-40, -78], causing cascading worldgen lag.
+[07:18:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:19:11] [Server thread/INFO] [mca]: Villager death: Mollie. Caused by: inWall. UUID: 97b01970-3453-4f52-88eb-b71c0a19a55b
+[07:19:12] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-21, -64] in dimension 0 (overworld) while populating chunk [-22, -65], causing cascading worldgen lag.
+[07:19:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:17] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:19:17] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:19:17] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [106, 95] in dimension 0 (overworld) while populating chunk [106, 96], causing cascading worldgen lag.
+[07:19:17] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:18] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [105, 95] in dimension 0 (overworld) while populating chunk [106, 96], causing cascading worldgen lag.
+[07:19:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:18] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ 1696 | 1536 ], underground: false
+[07:19:20] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-17, -67] in dimension 0 (overworld) while populating chunk [-18, -68], causing cascading worldgen lag.
+[07:19:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:21] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-17, -65] in dimension 0 (overworld) while populating chunk [-18, -68], causing cascading worldgen lag.
+[07:19:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:21] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-17, -66] in dimension 0 (overworld) while populating chunk [-18, -68], causing cascading worldgen lag.
+[07:19:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:21] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:19:21] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:19:21] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-18, -60] in dimension 0 (overworld) while populating chunk [-18, -61], causing cascading worldgen lag.
+[07:19:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:21] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-17, -60] in dimension 0 (overworld) while populating chunk [-18, -61], causing cascading worldgen lag.
+[07:19:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:21] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-18, -59] in dimension 0 (overworld) while populating chunk [-18, -61], causing cascading worldgen lag.
+[07:19:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:21] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-17, -59] in dimension 0 (overworld) while populating chunk [-18, -61], causing cascading worldgen lag.
+[07:19:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:23] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:19:24] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:19:24] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:19:24] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:19:25] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 150 times.
+
+[07:19:25] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 150 times.
+
+[07:19:25] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 150 times.
+
+[07:19:25] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 150 times.
+
+[07:19:25] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 150 times.
+
+[07:19:26] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:19:27] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:19:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2154ms behind, skipping 43 tick(s)
+[07:19:38] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-14, -55] in dimension 0 (overworld) while populating chunk [-15, -54], causing cascading worldgen lag.
+[07:19:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:38] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-13, -55] in dimension 0 (overworld) while populating chunk [-15, -54], causing cascading worldgen lag.
+[07:19:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:38] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-14, -56] in dimension 0 (overworld) while populating chunk [-15, -54], causing cascading worldgen lag.
+[07:19:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:49] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -224 | -816 ], underground: false
+[07:19:54] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-11, -54] in dimension 0 (overworld) while populating chunk [-12, -54], causing cascading worldgen lag.
+[07:19:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:54] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-11, -55] in dimension 0 (overworld) while populating chunk [-12, -54], causing cascading worldgen lag.
+[07:19:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:19:56] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:19:58] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-11, -71] in dimension 0 (overworld) while populating chunk [-10, -70], causing cascading worldgen lag.
+[07:19:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:19:59] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -160 | -1104 ], underground: false
+[07:20:15] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 155 times.
+
+[07:20:15] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 155 times.
+
+[07:20:15] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 155 times.
+
+[07:20:15] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 155 times.
+
+[07:20:15] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 155 times.
+
+[07:20:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[07:20:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
+[07:20:38] [Server thread/TRACE] [FML]: Handshake channel activating
+[07:20:38] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[07:20:38] [Server thread/DEBUG] [FML]:   Next: HELLO
+[07:20:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[07:20:39] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[07:20:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:65 mods->FMLHandshakeServerState$2:HELLO
+[07:20:39] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 65 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[07:20:39] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[07:20:39] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [morpheus, quickteleports] at CLIENT
+[07:20:39] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[07:20:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[07:20:39] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[07:20:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:20:41] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[07:20:41] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[07:20:41] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[07:20:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:20:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: FraanG0D[/127.214.228.222:50625] logged in with entity id 42459 at (-279.944229913655, 71.9375, -957.6896973145044)
+[07:20:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D joined the game
+[07:20:41] [Server thread/INFO] [Waila]: Player EntityPlayerMP['FraanG0D'/42459, l='world', x=-279.94, y=71.94, z=-957.69] connected. Sending ping
+[07:20:41] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player FraanG0D
+[07:20:41] [Thread-114/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[07:20:41] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[07:20:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[07:20:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[07:21:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[07:21:05] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 160 times.
+
+[07:21:05] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 160 times.
+
+[07:21:05] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 160 times.
+
+[07:21:05] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 160 times.
+
+[07:21:05] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 160 times.
+
+[07:21:07] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[07:21:09] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[07:21:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[07:21:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Pig is 0.001
+[07:21:22] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [-27, -79] in dimension 0 (overworld) while populating chunk [-26, -79], causing cascading worldgen lag.
+[07:21:22] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:21:26] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-17, -81] in dimension 0 (overworld) while populating chunk [-17, -80], causing cascading worldgen lag.
+[07:21:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:28] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -87] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-18, -88] in dimension 0 (overworld) while populating chunk [-17, -87], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-18, -87] in dimension 0 (overworld) while populating chunk [-17, -86], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -272 | -1376 ], underground: false
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -89] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -90] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -88] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-16, -87] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-16, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:30] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-15, -87] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-15, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -84] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -87] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -87] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-20, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-16, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -84] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-16, -82] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -82] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -83] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-15, -88] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-15, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-16, -83] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-16, -84] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -84] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-15, -84] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:31] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-15, -82] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-15, -83] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-14, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-14, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-13, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-14, -84] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-13, -84] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-13, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-12, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -82] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-18, -83] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-12, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:32] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-14, -87] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-13, -87] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-14, -88] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-14, -82] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-14, -83] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-16, -88] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-17, -88] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-11, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-10, -86] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-11, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-10, -85] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [-19, -89] in dimension 0 (overworld) while populating chunk [-14, -81], causing cascading worldgen lag.
+[07:21:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved too quickly! 3.1272038815334327,2.0724278036804407,-9.4247961407616
+[07:21:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4366ms behind, skipping 87 tick(s)
+[07:21:36] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:21:37] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:21:41] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-9, -74] in dimension 0 (overworld) while populating chunk [-9, -73], causing cascading worldgen lag.
+[07:21:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:41] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:21:41] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-8, -74] in dimension 0 (overworld) while populating chunk [-9, -73], causing cascading worldgen lag.
+[07:21:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:41] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:21:41] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-9, -75] in dimension 0 (overworld) while populating chunk [-9, -73], causing cascading worldgen lag.
+[07:21:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:41] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:21:41] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-9, -76] in dimension 0 (overworld) while populating chunk [-9, -73], causing cascading worldgen lag.
+[07:21:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:41] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:21:41] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-8, -75] in dimension 0 (overworld) while populating chunk [-9, -73], causing cascading worldgen lag.
+[07:21:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:21:41] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:21:41] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:21:47] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[07:21:55] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[07:21:57] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 165 times.
+
+[07:21:57] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 165 times.
+
+[07:21:57] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 165 times.
+
+[07:21:57] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 165 times.
+
+[07:21:57] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 165 times.
+
+[07:21:59] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[07:22:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Cow is 0.001
+[07:22:06] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-6, -82] in dimension 0 (overworld) while populating chunk [-5, -81], causing cascading worldgen lag.
+[07:22:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:22:06] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -80 | -1296 ], underground: false
+[07:22:16] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:22:16] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[07:22:16] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[07:22:16] [Server thread/WARN] [FML]: Fossils and Archeology Revival loaded a new chunk [1, -79] in dimension 0 (overworld) while populating chunk [1, -80], causing cascading worldgen lag.
+[07:22:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:22:16] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[07:22:17] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4797ms behind, skipping 95 tick(s)
+[07:22:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:22:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <baltacraft> asd
+[07:22:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> asd
+[07:22:50] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 170 times.
+
+[07:22:50] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 170 times.
+
+[07:22:50] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 170 times.
+
+[07:22:50] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 170 times.
+
+[07:22:50] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 170 times.
+
+[07:22:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: baltacraft moved wrongly!
+[07:22:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Fire Dragon is 0.001
+[07:23:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:23:31] [Server thread/INFO] [morpheus]: ElRamiACuadros is now sleeping. 1/3 (33%)
+[07:23:40] [Server thread/INFO] [morpheus]: ElRamiACuadros has left their bed. 0/3 (0%)
+[07:23:40] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 175 times.
+
+[07:23:40] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 175 times.
+
+[07:23:40] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 175 times.
+
+[07:23:40] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 175 times.
+
+[07:23:40] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 175 times.
+
+[07:23:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:23:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ElRamiACuadros was kicked for floating too long!
+[07:23:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ElRamiACuadros lost connection: Flying is not enabled on this server
+[07:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros left the game
+[07:23:46] [Server thread/WARN] [net.minecraft.network.NetworkManager]: handleDisconnection() called twice
+[07:23:47] [Server thread/INFO] [morpheus]: FraanG0D is now sleeping. 1/2 (50%)
+[07:23:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved wrongly!
+[07:24:06] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-27, -87] in dimension 0 (overworld) while populating chunk [-27, -88], causing cascading worldgen lag.
+[07:24:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:24:06] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-28, -87] in dimension 0 (overworld) while populating chunk [-27, -88], causing cascading worldgen lag.
+[07:24:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[07:24:19] [Server thread/TRACE] [FML]: Handshake channel activating
+[07:24:19] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[07:24:19] [Server thread/DEBUG] [FML]:   Next: HELLO
+[07:24:19] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[07:24:19] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[07:24:19] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:66 mods->FMLHandshakeServerState$2:HELLO
+[07:24:19] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[07:24:19] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[07:24:19] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [morpheus, quickteleports] at CLIENT
+[07:24:19] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[07:24:20] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[07:24:20] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[07:24:22] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[07:24:22] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[07:24:22] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[07:24:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:24:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ElRamiACuadros[/127.201.54.134:41361] logged in with entity id 52446 at (-1895.5, 72.0999984741211, 1671.5)
+[07:24:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros joined the game
+[07:24:22] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ElRamiACuadros'/52446, l='world', x=-1895.50, y=72.10, z=1671.50] connected. Sending ping
+[07:24:22] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player ElRamiACuadros
+[07:24:22] [Thread-123/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[07:24:22] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[07:24:30] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 180 times.
+
+[07:24:30] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 180 times.
+
+[07:24:30] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 180 times.
+
+[07:24:30] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 180 times.
+
+[07:24:30] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 180 times.
+
+[07:24:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:25:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:25:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:25:20] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 185 times.
+
+[07:25:20] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 185 times.
+
+[07:25:20] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 185 times.
+
+[07:25:20] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 185 times.
+
+[07:25:20] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 185 times.
+
+[07:25:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01

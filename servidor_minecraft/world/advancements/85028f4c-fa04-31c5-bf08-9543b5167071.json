@@ -1041,8 +1041,11 @@
       "savanna": "2024-12-26 07:00:35 +0000",
       "plains": "2024-12-26 07:05:00 +0000",
       "savanna_rock": "2024-12-26 06:58:51 +0000",
+      "taiga": "2024-12-30 07:18:22 +0000",
+      "taiga_hills": "2024-12-30 07:18:28 +0000",
       "ocean": "2024-12-26 07:11:49 +0000",
       "extreme_hills": "2024-12-28 08:44:44 +0000",
+      "roofed_forest": "2024-12-30 07:17:32 +0000",
       "river": "2024-12-26 06:59:49 +0000",
       "desert": "2024-12-26 22:25:35 +0000",
       "stone_beach": "2024-12-28 08:49:10 +0000"
@@ -1058,6 +1061,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-28 05:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 07:16:46 +0000"
     },
     "done": true
   },
