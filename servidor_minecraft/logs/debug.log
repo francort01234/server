@@ -30901,3 +30901,288 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 
 [07:46:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [07:46:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:47:00] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 315 times.
+
+[07:47:00] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 315 times.
+
+[07:47:00] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 315 times.
+
+[07:47:00] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 315 times.
+
+[07:47:00] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 315 times.
+
+[07:47:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:47:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:47:50] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 320 times.
+
+[07:47:50] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 320 times.
+
+[07:47:50] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 320 times.
+
+[07:47:50] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 320 times.
+
+[07:47:50] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 320 times.
+
+[07:47:51] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[07:48:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:48:40] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 325 times.
+
+[07:48:40] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 325 times.
+
+[07:48:40] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 325 times.
+
+[07:48:40] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 325 times.
+
+[07:48:40] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 325 times.
+
+[07:49:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:49:30] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 330 times.
+
+[07:49:30] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 330 times.
+
+[07:49:30] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 330 times.
+
+[07:49:30] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 330 times.
+
+[07:49:30] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 330 times.
+
+[07:49:45] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Diplocaulus is 0.001
+[07:50:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:50:20] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 335 times.
+
+[07:50:20] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 335 times.
+
+[07:50:20] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 335 times.
+
+[07:50:20] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 335 times.
+
+[07:50:20] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 335 times.
+
+[07:50:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:50:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:51:10] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 340 times.
+
+[07:51:10] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 340 times.
+
+[07:51:10] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 340 times.
+
+[07:51:10] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 340 times.
+
+[07:51:10] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 340 times.
+
+[07:51:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:52:00] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 345 times.
+
+[07:52:00] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 345 times.
+
+[07:52:00] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 345 times.
+
+[07:52:00] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 345 times.
+
+[07:52:00] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 345 times.
+
+[07:52:06] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[07:52:14] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[07:52:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:52:25] [Server thread/INFO] [Scaling Health]: Blight Spider was killed by FraanG0D
+[07:52:25] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[07:52:44] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Creeper is 0.01
+[07:52:50] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 350 times.
+
+[07:52:50] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 350 times.
+
+[07:52:50] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 350 times.
+
+[07:52:50] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 350 times.
+
+[07:52:50] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 350 times.
+
+[07:52:56] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:53:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has completed the challenge [Great View From Up Here]
+[07:53:11] [Server thread/INFO] [morpheus]: FraanG0D is now sleeping. 1/3 (33%)
+[07:53:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved wrongly!
+[07:53:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Spider is 0.01
+[07:53:40] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 355 times.
+
+[07:53:40] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 355 times.
+
+[07:53:40] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 355 times.
+
+[07:53:40] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 355 times.
+
+[07:53:40] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 355 times.
+
+[07:53:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:53:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[07:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
+[07:54:30] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 360 times.
+
+[07:54:30] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 360 times.
+
+[07:54:30] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 360 times.
+
+[07:54:30] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 360 times.
+
+[07:54:30] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 360 times.
+
+[07:54:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:54:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: baltacraft lost connection: Disconnected
+[07:54:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft left the game
+[07:55:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:55:20] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 365 times.
+
+[07:55:20] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 365 times.
+
+[07:55:20] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 365 times.
+
+[07:55:20] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 365 times.
+
+[07:55:20] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 365 times.
+
+[07:56:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:56:10] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 370 times.
+
+[07:56:10] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 370 times.
+
+[07:56:10] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 370 times.
+
+[07:56:10] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 370 times.
+
+[07:56:10] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 370 times.
+
+[07:56:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:57:00] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 375 times.
+
+[07:57:00] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 375 times.
+
+[07:57:00] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 375 times.
+
+[07:57:00] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 375 times.
+
+[07:57:00] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 375 times.
+
+[07:57:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:57:50] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 380 times.
+
+[07:57:50] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 380 times.
+
+[07:57:50] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 380 times.
+
+[07:57:50] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 380 times.
+
+[07:57:50] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 380 times.
+
+[07:58:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:58:40] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 385 times.
+
+[07:58:40] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 385 times.
+
+[07:58:40] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 385 times.
+
+[07:58:40] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 385 times.
+
+[07:58:40] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 385 times.
+
+[07:59:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:59:30] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 390 times.
+
+[07:59:30] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 390 times.
+
+[07:59:30] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 390 times.
+
+[07:59:30] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 390 times.
+
+[07:59:30] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 390 times.
+
+[07:59:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[08:00:20] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 395 times.
+
+[08:00:20] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 395 times.
+
+[08:00:20] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 395 times.
+
+[08:00:20] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 395 times.
+
+[08:00:20] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 395 times.
+
+[08:00:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:01:10] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 400 times.
+
+[08:01:10] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 400 times.
+
+[08:01:10] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 400 times.
+
+[08:01:10] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 400 times.
+
+[08:01:10] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 400 times.
+
+[08:01:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:02:00] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 405 times.
+
+[08:02:00] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 405 times.
+
+[08:02:00] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 405 times.
+
+[08:02:00] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 405 times.
+
+[08:02:00] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 405 times.
+
+[08:02:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:02:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:02:50] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 410 times.
+
+[08:02:50] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 410 times.
+
+[08:02:50] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 410 times.
+
+[08:02:50] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 410 times.
+
+[08:02:50] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 410 times.
+
+[08:03:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:03:40] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 415 times.
+
+[08:03:40] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 415 times.
+
+[08:03:40] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 415 times.
+
+[08:03:40] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 415 times.
+
+[08:03:40] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 415 times.
+
+[08:04:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:04:30] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 420 times.
+
+[08:04:30] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 420 times.
+
+[08:04:30] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 420 times.
+
+[08:04:30] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 420 times.
+
+[08:04:30] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 420 times.
+
+[08:05:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:05:20] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 425 times.
+
+[08:05:20] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 425 times.
+
+[08:05:20] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 425 times.
+
+[08:05:20] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 425 times.
+
+[08:05:20] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 425 times.
+
+[08:05:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[08:06:10] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 430 times.
+
+[08:06:10] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 430 times.
+
+[08:06:10] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 430 times.
+
+[08:06:10] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 430 times.
+
+[08:06:10] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 430 times.
+
+[08:06:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

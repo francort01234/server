@@ -1620,3 +1620,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [07:38:58] [Server thread/INFO] [morpheus]: FraanG0D is now sleeping. 1/3 (33%)
 [07:38:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved wrongly!
 [07:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[07:47:51] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[07:52:25] [Server thread/INFO] [Scaling Health]: Blight Spider was killed by FraanG0D
+[07:53:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has completed the challenge [Great View From Up Here]
+[07:53:11] [Server thread/INFO] [morpheus]: FraanG0D is now sleeping. 1/3 (33%)
+[07:53:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved wrongly!
+[07:53:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[07:53:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
+[07:54:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: baltacraft lost connection: Disconnected
+[07:54:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft left the game
+[08:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up

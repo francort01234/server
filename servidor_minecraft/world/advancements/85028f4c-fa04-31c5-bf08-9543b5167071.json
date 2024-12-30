@@ -1346,6 +1346,12 @@
     },
     "done": true
   },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-12-30 07:53:04 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/wooden_chair": {
     "criteria": {
       "has_wood": "2024-12-26 07:01:28 +0000"
