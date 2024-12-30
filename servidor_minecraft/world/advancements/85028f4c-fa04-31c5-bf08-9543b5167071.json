@@ -631,6 +631,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-30 07:38:02 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/create_strange_scroll": {
     "criteria": {
       "has_strange_scroll": "2024-12-26 07:12:47 +0000"

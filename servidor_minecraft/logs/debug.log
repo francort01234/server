@@ -30740,3 +30740,164 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [07:35:41] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
 [07:35:45] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [07:35:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:36:01] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[07:36:10] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 250 times.
+
+[07:36:10] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 250 times.
+
+[07:36:10] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 250 times.
+
+[07:36:10] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 250 times.
+
+[07:36:10] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 250 times.
+
+[07:36:20] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[07:36:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:36:58] [Server thread/INFO] [Scaling Health]: Blight Zombie was killed by baltacraft
+[07:36:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:37:00] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 255 times.
+
+[07:37:00] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 255 times.
+
+[07:37:00] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 255 times.
+
+[07:37:00] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 255 times.
+
+[07:37:00] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 255 times.
+
+[07:37:00] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[07:37:10] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[07:37:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:37:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:37:38] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[07:37:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:37:50] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 260 times.
+
+[07:37:50] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 260 times.
+
+[07:37:50] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 260 times.
+
+[07:37:50] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 260 times.
+
+[07:37:50] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 260 times.
+
+[07:37:52] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[07:38:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:38:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft has made the advancement [They Have a Cave Troll!]
+[07:38:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Troll is 0.01
+[07:38:40] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 265 times.
+
+[07:38:40] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 265 times.
+
+[07:38:40] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 265 times.
+
+[07:38:40] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 265 times.
+
+[07:38:40] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 265 times.
+
+[07:38:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:38:58] [Server thread/INFO] [morpheus]: FraanG0D is now sleeping. 1/3 (33%)
+[07:38:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved wrongly!
+[07:39:30] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 270 times.
+
+[07:39:30] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 270 times.
+
+[07:39:30] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 270 times.
+
+[07:39:30] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 270 times.
+
+[07:39:30] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 270 times.
+
+[07:39:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[07:40:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:40:20] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 275 times.
+
+[07:40:20] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 275 times.
+
+[07:40:20] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 275 times.
+
+[07:40:20] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 275 times.
+
+[07:40:20] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 275 times.
+
+[07:41:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:41:10] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 280 times.
+
+[07:41:10] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 280 times.
+
+[07:41:10] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 280 times.
+
+[07:41:10] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 280 times.
+
+[07:41:10] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 280 times.
+
+[07:41:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:42:00] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 285 times.
+
+[07:42:00] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 285 times.
+
+[07:42:00] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 285 times.
+
+[07:42:00] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 285 times.
+
+[07:42:00] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 285 times.
+
+[07:42:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:42:50] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 290 times.
+
+[07:42:50] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 290 times.
+
+[07:42:50] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 290 times.
+
+[07:42:50] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 290 times.
+
+[07:42:50] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 290 times.
+
+[07:42:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Coelacanth is 0.001
+[07:43:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:43:40] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 295 times.
+
+[07:43:40] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 295 times.
+
+[07:43:40] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 295 times.
+
+[07:43:40] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 295 times.
+
+[07:43:40] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 295 times.
+
+[07:44:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:44:30] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 300 times.
+
+[07:44:30] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 300 times.
+
+[07:44:30] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 300 times.
+
+[07:44:30] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 300 times.
+
+[07:44:30] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 300 times.
+
+[07:44:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:45:20] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 305 times.
+
+[07:45:20] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 305 times.
+
+[07:45:20] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 305 times.
+
+[07:45:20] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 305 times.
+
+[07:45:20] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 305 times.
+
+[07:45:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:46:10] [Server thread/DEBUG] [FML]: The world 1ffb672b (world) may have leaked: seen 310 times.
+
+[07:46:10] [Server thread/DEBUG] [FML]: The world 300b0045 (world) may have leaked: seen 310 times.
+
+[07:46:10] [Server thread/DEBUG] [FML]: The world 6339f3bc (world) may have leaked: seen 310 times.
+
+[07:46:10] [Server thread/DEBUG] [FML]: The world 73238466 (world) may have leaked: seen 310 times.
+
+[07:46:10] [Server thread/DEBUG] [FML]: The world 1acc620a (world) may have leaked: seen 310 times.
+
+[07:46:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:46:17] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
