@@ -1041,3 +1041,54 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [20:39:20] [Thread-328/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
 [20:39:40] [Server thread/INFO] [mca]: Villager death: Abram. Caused by: Zombie. UUID: 93e3000b-080b-4eb7-88f1-4f428eb0bb67
 [20:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:generic_protection' into LootTable 'minecraft:chests/simple_dungeon'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/simple_dungeon'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:xp+' into LootTable 'minecraft:entities/elder_guardian'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:alchemist' into LootTable 'minecraft:entities/witch'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:obsidian_skin' into LootTable 'minecraft:chests/nether_bridge'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/nether_bridge'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/abandoned_mineshaft'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:growth' into LootTable 'minecraft:chests/jungle_temple'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/jungle_temple'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:treasure_sands' into LootTable 'minecraft:chests/desert_pyramid'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/desert_pyramid'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:enchanter' into LootTable 'minecraft:chests/stronghold_library'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/stronghold_library'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/spawn_bonus_chest'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/stronghold_corridor'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:atkdmg_ranged' into LootTable 'minecraft:entities/skeleton'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:ender_manipulator' into LootTable 'minecraft:entities/enderman'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/igloo_chest'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/stronghold_crossing'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/village_blacksmith'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/jungle_temple_dispenser'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/woodland_mansion'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:health' into LootTable 'minecraft:chests/end_city_treasure'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'minecraft:chests/end_city_treasure'!
+[20:42:41] [Server thread/INFO] [improvableskills]: Injecting scroll for skill 'improvableskills:luck_of_the_sea' into LootTable 'minecraft:gameplay/fishing'!
+[20:42:41] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 873 advancements
+[20:42:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [FraanG0D: Successfully reloaded loot tables, advancements and functions]
+[20:42:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ElRamiACuadros lost connection: Disconnected
+[20:42:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros left the game
+[20:42:57] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[20:42:57] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[20:42:57] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[20:42:57] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [morpheus, quickteleports] at CLIENT
+[20:42:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:42:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ElRamiACuadros[/127.201.54.134:45009] logged in with entity id 46352 at (-441.23927242747607, 63.0, 1781.7056876107747)
+[20:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros joined the game
+[20:42:59] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ElRamiACuadros'/46352, l='world', x=-441.24, y=63.00, z=1781.71] connected. Sending ping
+[20:42:59] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player ElRamiACuadros
+[20:42:59] [Thread-339/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[20:47:31] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:47:31] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 65 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[20:47:31] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[20:47:31] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [morpheus, quickteleports] at CLIENT
+[20:47:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:47:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: p3droz[/127.186.154.81:54803] logged in with entity id 50353 at (-370.68351087496666, 43.0, 1702.450192717841)
+[20:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz joined the game
+[20:47:33] [Server thread/INFO] [Waila]: Player EntityPlayerMP['p3droz'/50353, l='world', x=-370.68, y=43.00, z=1702.45] connected. Sending ping
+[20:47:33] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player p3droz
+[20:47:33] [Thread-353/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[20:52:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ElRamiACuadros lost connection: Disconnected
+[20:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros left the game
