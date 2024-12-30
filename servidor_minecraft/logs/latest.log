@@ -1093,3 +1093,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [20:52:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ElRamiACuadros lost connection: Disconnected
 [20:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros left the game
 [21:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[21:16:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> hola
+[21:16:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> ?
+[21:17:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 7d60645c-8849-472a-8345-5c5ccfbeb3c5
+[21:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [FraanG0D: Teleported FraanG0D to -1894.5, 80.0, 1668.5]
+[21:19:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID f0a44f10-cbbd-48d0-869c-88d22f91258a
+[21:19:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[21:19:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
+[21:19:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 32b55d22-5c1e-4eb7-bd57-fd875d00d3b2
+[21:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[21:21:51] [Server thread/INFO] [mca]: Villager death: Jared. Caused by: Zombie. UUID: 01639882-0fda-4d09-b1d5-af7d8eb94bf7
+[21:23:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved too quickly! 5.445754763106947,14.28644972103153,-8.518844305459197
