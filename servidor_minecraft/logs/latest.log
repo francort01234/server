@@ -1007,3 +1007,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [19:38:01] [Server thread/INFO] [Scaling Health]: Blight Mimic was killed by ElRamiACuadros
 [19:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
 [20:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[20:10:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] hola?
+[20:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 1/10 players online:
+[20:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros
