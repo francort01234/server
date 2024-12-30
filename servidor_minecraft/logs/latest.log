@@ -1092,3 +1092,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [20:47:33] [Thread-353/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
 [20:52:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ElRamiACuadros lost connection: Disconnected
 [20:52:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ElRamiACuadros left the game
+[21:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up

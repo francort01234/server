@@ -210,6 +210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-30 20:56:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2024-12-26 22:20:10 +0000"
@@ -522,6 +528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 20:53:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/create_magic_scroll": {
     "criteria": {
       "has_ingredient": "2024-12-28 06:01:48 +0000"
@@ -740,6 +752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 20:53:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2024-12-28 23:34:22 +0000"
@@ -869,6 +887,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-30 20:53:03 +0000"
     },
     "done": true
   },
@@ -1227,6 +1251,12 @@
   "dungeontactics:recipes/armour/diamond_plate_armour": {
     "criteria": {
       "has_item": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-30 20:53:07 +0000"
     },
     "done": true
   },
