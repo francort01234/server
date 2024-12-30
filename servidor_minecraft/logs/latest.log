@@ -1104,3 +1104,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [21:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
 [21:21:51] [Server thread/INFO] [mca]: Villager death: Jared. Caused by: Zombie. UUID: 01639882-0fda-4d09-b1d5-af7d8eb94bf7
 [21:23:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: p3droz moved too quickly! 5.445754763106947,14.28644972103153,-8.518844305459197
+[21:37:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
+[21:37:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
+[21:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
