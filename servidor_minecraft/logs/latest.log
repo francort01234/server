@@ -1068,3 +1068,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [03:36:20] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ElRamiACuadros'/27722, l='world', x=-1900.17, y=72.00, z=1669.26] connected. Sending ping
 [03:36:20] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player ElRamiACuadros
 [03:36:20] [Thread-603/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[03:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
