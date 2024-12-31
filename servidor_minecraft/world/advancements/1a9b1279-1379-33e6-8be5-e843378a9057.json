@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 04:06:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-26 07:37:48 +0000"
@@ -647,6 +653,12 @@
   "dungeontactics:recipes/misc/rings": {
     "criteria": {
       "has_gold": "2024-12-26 22:14:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2024-12-31 04:06:28 +0000"
     },
     "done": true
   },
@@ -1514,6 +1526,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/info_grave_key": {
+    "criteria": {
+      "grave_key": "2024-12-31 04:06:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:40:37 +0000"
@@ -1808,6 +1826,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 04:06:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 06:23:55 +0000"
@@ -1838,6 +1862,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 04:06:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:40:37 +0000"
@@ -1859,6 +1889,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_red_sandstone": "2024-12-26 22:03:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-31 04:06:11 +0000"
     },
     "done": true
   },
@@ -2237,6 +2273,12 @@
   "dungeontactics:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-26 07:26:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_strange_scroll": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 04:06:28 +0000"
     },
     "done": true
   },

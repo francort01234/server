@@ -32237,3 +32237,169 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [03:56:14] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1385 times.
 
 [03:56:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:57:04] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1390 times.
+
+[03:57:04] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1390 times.
+
+[03:57:04] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1390 times.
+
+[03:57:04] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1390 times.
+
+[03:57:04] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1390 times.
+
+[03:57:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:57:54] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1395 times.
+
+[03:57:54] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1395 times.
+
+[03:57:54] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1395 times.
+
+[03:57:54] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1395 times.
+
+[03:57:54] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1395 times.
+
+[03:57:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:58:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:58:44] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1400 times.
+
+[03:58:44] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1400 times.
+
+[03:58:44] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1400 times.
+
+[03:58:44] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1400 times.
+
+[03:58:44] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1400 times.
+
+[03:59:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:59:34] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1405 times.
+
+[03:59:34] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1405 times.
+
+[03:59:34] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1405 times.
+
+[03:59:34] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1405 times.
+
+[03:59:34] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1405 times.
+
+[04:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:00:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:00:24] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1410 times.
+
+[04:00:24] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1410 times.
+
+[04:00:24] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1410 times.
+
+[04:00:24] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1410 times.
+
+[04:00:24] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1410 times.
+
+[04:00:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:01:14] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1415 times.
+
+[04:01:14] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1415 times.
+
+[04:01:14] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1415 times.
+
+[04:01:14] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1415 times.
+
+[04:01:14] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1415 times.
+
+[04:01:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:02:04] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1420 times.
+
+[04:02:04] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1420 times.
+
+[04:02:04] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1420 times.
+
+[04:02:04] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1420 times.
+
+[04:02:04] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1420 times.
+
+[04:02:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:02:54] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1425 times.
+
+[04:02:54] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1425 times.
+
+[04:02:54] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1425 times.
+
+[04:02:54] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1425 times.
+
+[04:02:54] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1425 times.
+
+[04:03:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:03:44] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1430 times.
+
+[04:03:44] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1430 times.
+
+[04:03:44] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1430 times.
+
+[04:03:44] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1430 times.
+
+[04:03:44] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1430 times.
+
+[04:03:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:04:34] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1435 times.
+
+[04:04:34] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1435 times.
+
+[04:04:34] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1435 times.
+
+[04:04:34] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1435 times.
+
+[04:04:34] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1435 times.
+
+[04:04:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D is bleeding...
+[04:05:11] [Server thread/INFO] [tombstone]: The death event of the player FraanG0D was cancelled by another mod
+[04:05:24] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1440 times.
+
+[04:05:24] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1440 times.
+
+[04:05:24] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1440 times.
+
+[04:05:24] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1440 times.
+
+[04:05:24] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1440 times.
+
+[04:05:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:06:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:06:11] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-FraanG0D-2024-12-31_04.06.11-death-0.dat. It can be restored with command '/ob_inventory restore FraanG0D FraanG0D-2024-12-31_04.06.11-death-0'
+[04:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D was slain by Zombie
+[04:06:11] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['FraanG0D'/18928, l='world', x=-402.70, y=63.00, z=1785.30]' cancelled, grave will not be spawned'
+[04:06:11] [Server thread/INFO] [tombstone]: The last known grave of FraanG0D is at location [name:Last Grave, x:-403, y:63, z:1785] in the dimension 0
+[04:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Your First Grave]
+[04:06:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [INFO : Grave's Key]
+[04:06:14] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1445 times.
+
+[04:06:14] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1445 times.
+
+[04:06:14] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1445 times.
+
+[04:06:14] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1445 times.
+
+[04:06:14] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1445 times.
+
+[04:06:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> noooooo
+[04:06:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> como no quitee
+[04:06:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ElRamiACuadros> JUSTO TE ESTABA POR LLAMAR
+[04:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ElRamiACuadros> JASJJADSJA
+[04:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Not Even Double-Sided]
+[04:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Knowledge of Death]
+[04:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has reached the goal [Here They Come]
+[04:06:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:06:33] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:06:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> amigo
+[04:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> es la priemra vez q muero
+[04:06:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:06:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[04:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
+[04:07:04] [Server thread/DEBUG] [FML]: The world 47774b07 (world) may have leaked: seen 1450 times.
+
+[04:07:04] [Server thread/DEBUG] [FML]: The world 35b4195c (world) may have leaked: seen 1450 times.
+
+[04:07:04] [Server thread/DEBUG] [FML]: The world 58ab6499 (world) may have leaked: seen 1450 times.
+
+[04:07:04] [Server thread/DEBUG] [FML]: The world 741a1a27 (world) may have leaked: seen 1450 times.
+
+[04:07:04] [Server thread/DEBUG] [FML]: The world 1fb94bfd (world) may have leaked: seen 1450 times.
+
