@@ -1013,3 +1013,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [00:32:23] [Server thread/INFO] [Waila]: Player EntityPlayerMP['FraanG0D'/7760, l='world', x=-417.75, y=64.00, z=1798.50] connected. Sending ping
 [00:32:23] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player FraanG0D
 [00:32:23] [Thread-108/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[00:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:42:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[00:42:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
