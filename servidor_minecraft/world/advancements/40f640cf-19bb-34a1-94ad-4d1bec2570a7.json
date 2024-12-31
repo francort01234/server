@@ -1268,6 +1268,12 @@
     },
     "done": true
   },
+  "fossil:fossil/mosasaurus": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-31 04:31:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-26 07:12:49 +0000"
