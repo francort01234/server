@@ -1002,3 +1002,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [21:00:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 32b55d22-5c1e-4eb7-bd57-fd875d00d3b2
 [21:01:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
 [21:01:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
+[21:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
