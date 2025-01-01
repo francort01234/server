@@ -392,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-01 23:13:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
@@ -826,7 +832,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-01-01 23:12:52 +0000",
       "wither_skeleton": "2025-01-01 20:16:11 +0000",
+      "zombie_villager": "2025-01-01 23:11:35 +0000",
       "skeleton": "2024-12-26 08:38:34 +0000",
       "husk": "2024-12-26 07:55:16 +0000",
       "cave_spider": "2024-12-26 07:37:08 +0000",
@@ -1230,6 +1238,12 @@
   "fossil:fossil/tar_drop": {
     "criteria": {
       "tar_drop": "2024-12-26 07:36:17 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/lantern_magic": {
+    "criteria": {
+      "has_gold": "2025-01-01 23:13:30 +0000"
     },
     "done": true
   },
