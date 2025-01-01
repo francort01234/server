@@ -1097,3 +1097,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [23:20:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.monster.EntitySlime from class com.inventorypets.entities.EntityAnvilPet
 [23:23:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: p3droz lost connection: Disconnected
 [23:23:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: p3droz left the game
+[23:34:14] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-N4ZRN-2025-01-01_23.34.14-death-0.dat. It can be restored with command '/ob_inventory restore N4ZRN N4ZRN-2025-01-01_23.34.14-death-0'
+[23:34:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN was turned into gorgonzola by a gorgon
+[23:34:14] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['N4ZRN'/33101, l='world', x=-1262.84, y=52.00, z=1953.46]' cancelled, grave will not be spawned'
+[23:34:14] [Server thread/INFO] [tombstone]: The last known grave of N4ZRN is at location [name:Last Grave, x:-1263, y:52, z:1953] in the dimension 0
+[23:34:39] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-N4ZRN-2025-01-01_23.34.39-death-0.dat. It can be restored with command '/ob_inventory restore N4ZRN N4ZRN-2025-01-01_23.34.39-death-0'
+[23:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN was turned into gorgonzola by a gorgon
+[23:34:39] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['N4ZRN'/33101, l='world', x=-1263.57, y=52.00, z=1952.42]' cancelled, grave will not be spawned'
+[23:34:39] [Server thread/INFO] [tombstone]: The last known grave of N4ZRN is at location [name:Last Grave, x:-1264, y:52, z:1952] in the dimension 0
+[23:38:45] [Server thread/INFO] [Scaling Health]: Blight Skeleton was killed by N4ZRN
+[23:39:10] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player N4ZRN)
+[23:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
