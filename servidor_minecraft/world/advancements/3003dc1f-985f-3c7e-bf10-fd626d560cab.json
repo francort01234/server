@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-01-01 20:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
@@ -152,6 +158,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-26 07:07:18 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2025-01-01 20:11:42 +0000"
     },
     "done": true
   },
@@ -428,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-01 20:11:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/info_grave_key": {
     "criteria": {
       "grave_key": "2024-12-26 07:27:19 +0000"
@@ -692,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-01-01 20:16:15 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-26 07:00:33 +0000"
@@ -802,11 +826,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2025-01-01 20:16:11 +0000",
       "skeleton": "2024-12-26 08:38:34 +0000",
       "husk": "2024-12-26 07:55:16 +0000",
       "cave_spider": "2024-12-26 07:37:08 +0000",
       "zombie": "2024-12-26 07:39:50 +0000",
-      "spider": "2024-12-26 07:37:43 +0000"
+      "spider": "2024-12-26 07:37:43 +0000",
+      "creeper": "2025-01-01 20:09:59 +0000",
+      "enderman": "2025-01-01 20:15:29 +0000"
     },
     "done": false
   },
@@ -1044,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-01-01 20:16:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2024-12-26 07:54:01 +0000"
@@ -1185,6 +1218,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-01-01 20:16:15 +0000"
     },
     "done": true
   },
