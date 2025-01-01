@@ -996,3 +996,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [19:50:40] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player N4ZRN
 [19:50:40] [Thread-41/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
 [19:50:42] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2336ms behind, skipping 46 tick(s)
+[19:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Heads Up]
+[19:59:35] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.monster.EntitySlime from class com.inventorypets.entities.EntityAnvilPet
+[20:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[20:02:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Long Live ChickenBones]

@@ -846,6 +846,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/rings": {
+    "criteria": {
+      "has_iron": "2025-01-01 19:59:04 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-26 07:27:18 +0000"
@@ -1279,6 +1285,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/anvil": {
+    "criteria": {
+      "crafting_table": "2025-01-01 19:59:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/root": {
     "criteria": {
       "auto": "2024-12-26 07:00:33 +0000"
@@ -1394,6 +1406,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-01-01 19:59:04 +0000"
     },
     "done": true
   },
@@ -1604,6 +1622,12 @@
   "dungeontactics:recipes/weapons/diamond_weapons": {
     "criteria": {
       "has_item": "2024-12-26 07:13:52 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/enderchest": {
+    "criteria": {
+      "crafting_table": "2025-01-01 20:02:37 +0000"
     },
     "done": true
   }
