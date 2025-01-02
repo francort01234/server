@@ -446,6 +446,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/convenience/clayball_from_clay": {
+    "criteria": {
+      "has_clay": "2025-01-01 23:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-01 20:11:42 +0000"
