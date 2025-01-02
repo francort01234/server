@@ -29193,3 +29193,231 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 
 [07:40:08] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 55 times.
 
+[07:40:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:40:58] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 60 times.
+
+[07:40:58] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 60 times.
+
+[07:40:58] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 60 times.
+
+[07:40:58] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 60 times.
+
+[07:40:58] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 60 times.
+
+[07:41:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[07:41:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:41:48] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 65 times.
+
+[07:41:48] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 65 times.
+
+[07:41:48] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 65 times.
+
+[07:41:48] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 65 times.
+
+[07:41:48] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 65 times.
+
+[07:42:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:42:38] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 70 times.
+
+[07:42:38] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 70 times.
+
+[07:42:38] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 70 times.
+
+[07:42:38] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 70 times.
+
+[07:42:38] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 70 times.
+
+[07:42:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:43:22] [Server thread/TRACE] [FML]: Handshake channel activating
+[07:43:22] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[07:43:22] [Server thread/DEBUG] [FML]:   Next: HELLO
+[07:43:22] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[07:43:22] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[07:43:22] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:66 mods->FMLHandshakeServerState$2:HELLO
+[07:43:22] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[07:43:22] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[07:43:22] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [morpheus, quickteleports] at CLIENT
+[07:43:22] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[07:43:22] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[07:43:22] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[07:43:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[07:43:25] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[07:43:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[07:43:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:43:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: baltacraft[/127.122.14.94:35389] logged in with entity id 9313 at (-137.0749999880791, 71.0, 1430.699999988079)
+[07:43:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft joined the game
+[07:43:25] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[07:43:25] [Server thread/INFO] [Waila]: Player EntityPlayerMP['baltacraft'/9313, l='world', x=-137.07, y=71.00, z=1430.70] connected. Sending ping
+[07:43:25] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player baltacraft
+[07:43:25] [Thread-71/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[07:43:28] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 75 times.
+
+[07:43:28] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 75 times.
+
+[07:43:28] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 75 times.
+
+[07:43:28] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 75 times.
+
+[07:43:28] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 75 times.
+
+[07:43:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:44:18] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 80 times.
+
+[07:44:18] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 80 times.
+
+[07:44:18] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 80 times.
+
+[07:44:18] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 80 times.
+
+[07:44:18] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 80 times.
+
+[07:44:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d70af12c-099a-40b9-9ab7-e4d28d7b13c2
+[07:44:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID c74d10ab-9f07-40d6-a29e-a51178338991
+[07:44:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd5f0abf-001e-4e5e-a0a0-e17e6c111227
+[07:44:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:44:30] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[07:44:30] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[07:44:30] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[07:44:30] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[07:44:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[07:44:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[07:44:30] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[07:44:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[07:44:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[07:44:30] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[07:44:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[07:44:30] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[07:44:30] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[07:44:30] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[07:44:30] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[07:44:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 896988e6-bdc4-4e86-8b61-a477a0cbfcdc
+[07:45:08] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 85 times.
+
+[07:45:08] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 85 times.
+
+[07:45:08] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 85 times.
+
+[07:45:08] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 85 times.
+
+[07:45:08] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 85 times.
+
+[07:45:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 896988e6-bdc4-4e86-8b61-a477a0cbfcdc
+[07:45:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:45:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: baltacraft lost connection: Disconnected
+[07:45:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft left the game
+[07:45:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[07:45:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[07:45:58] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 90 times.
+
+[07:45:58] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 90 times.
+
+[07:45:58] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 90 times.
+
+[07:45:58] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 90 times.
+
+[07:45:58] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 90 times.
+
+[07:45:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:46:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:46:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[07:46:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[07:46:48] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 95 times.
+
+[07:46:48] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 95 times.
+
+[07:46:48] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 95 times.
+
+[07:46:48] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 95 times.
+
+[07:46:48] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 95 times.
+
+[07:46:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[07:46:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[07:46:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[07:46:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[07:46:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[07:46:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:66 mods->FMLHandshakeServerState$2:HELLO
+[07:46:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 66 mods : mclib@2.4.2,dungeonsmod@@VERSION@,dungeontactics@DT-0.16.7,mca@6.1.0,creativecoredummy@1.0.0,bountifulbaubles@0.0.1,openmods@0.12.2,deconstruction@3.0.4,jei@4.15.0.293,chunkpregenerator@4.4.9,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,dailies@1.12.2-6,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,hammercore@12.2.56,journeymap@1.12.2-5.7.1p2,artifacts@1.12.2-1.2.3,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.255,progressivebosses@1.5.4,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,inventorypets@2.0.15,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,carryon@1.12.3,emoticons@1.1.2,paraglider@1.0.1.5,forge@14.23.5.2860,ruins@17.2,bloodmagic@1.12.2-2.4.3-105,eplus@5.0.176,openblocks@1.8.1,hardcore_battle_towers_av_av@2.0.1,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,usefulbackpacks@1.5.3.59,dungeons@2.0,silentlib@3.0.13,baubles@1.5.2,openmodscore@0.12.2,creativecore@1.10.0,advancedrocketry@1.12.2-2.0.0-17,battletowers@1.6.5,futureminecraf@1.3.1,improvableskills@12.4.68,roguelike@1.8.0,mantle@1.12-1.3.3.55,gb@1.1.206,securitycraft@v1.9.4,FML@8.0.99.99,tombstone@3.7.3,libvulpes@0.4.2.-25,cfm@6.3.0,tinkersjei@1.2,oreshrubs@1.4.4,scalinghealth@1.3.37,playerrevive@1.0,movillages@1.5.4,carbonconfig@1.2.1
+[07:46:59] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[07:46:59] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [morpheus, quickteleports] at CLIENT
+[07:46:59] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[07:46:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[07:46:59] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[07:47:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[07:47:02] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[07:47:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[07:47:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:47:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: baltacraft[/127.122.14.94:59065] logged in with entity id 14657 at (68.61247627328967, 67.0, 1285.4183288420325)
+[07:47:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft joined the game
+[07:47:02] [Server thread/INFO] [Waila]: Player EntityPlayerMP['baltacraft'/14657, l='world', x=68.61, y=67.00, z=1285.42] connected. Sending ping
+[07:47:02] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player baltacraft
+[07:47:02] [Thread-82/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[07:47:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[07:47:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 896988e6-bdc4-4e86-8b61-a477a0cbfcdc
+[07:47:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:47:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 896988e6-bdc4-4e86-8b61-a477a0cbfcdc
+[07:47:38] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 100 times.
+
+[07:47:38] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 100 times.
+
+[07:47:38] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 100 times.
+
+[07:47:38] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 100 times.
+
+[07:47:38] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 100 times.
+
+[07:48:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:48:28] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 105 times.
+
+[07:48:28] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 105 times.
+
+[07:48:28] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 105 times.
+
+[07:48:28] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 105 times.
+
+[07:48:28] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 105 times.
+
+[07:48:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd5f0abf-001e-4e5e-a0a0-e17e6c111227
+[07:48:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 896988e6-bdc4-4e86-8b61-a477a0cbfcdc
+[07:48:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[07:48:36] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[07:48:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:49:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID c74d10ab-9f07-40d6-a29e-a51178338991
+[07:49:18] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 110 times.
+
+[07:49:18] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 110 times.
+
+[07:49:18] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 110 times.
+
+[07:49:18] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 110 times.
+
+[07:49:18] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 110 times.
+
+[07:49:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd5f0abf-001e-4e5e-a0a0-e17e6c111227
+[07:49:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID d70af12c-099a-40b9-9ab7-e4d28d7b13c2
+[07:49:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[07:49:35] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Skeleton is 0.01
+[07:49:39] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:49:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:50:08] [Server thread/DEBUG] [FML]: The world 416df11b (world) may have leaked: seen 115 times.
+
+[07:50:08] [Server thread/DEBUG] [FML]: The world 343ac585 (world) may have leaked: seen 115 times.
+
+[07:50:08] [Server thread/DEBUG] [FML]: The world 397d6949 (world) may have leaked: seen 115 times.
+
+[07:50:08] [Server thread/DEBUG] [FML]: The world 2108faab (world) may have leaked: seen 115 times.
+
+[07:50:08] [Server thread/DEBUG] [FML]: The world 37527ec3 (world) may have leaked: seen 115 times.
+
+[07:50:10] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[07:50:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[07:50:29] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
