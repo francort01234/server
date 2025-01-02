@@ -1136,3 +1136,8 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
 [04:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
 [04:02:34] [Server thread/INFO] [mca]: Villager death: Doug. Caused by: Death Worm. UUID: 407868ae-150f-4f73-99a4-5e51b0581d97
 [04:05:07] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player N4ZRN)
+[04:08:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> q onda mi xp
+[04:08:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> se bugeo
+[04:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:24:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Into Fire]
+[04:24:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> re gay}

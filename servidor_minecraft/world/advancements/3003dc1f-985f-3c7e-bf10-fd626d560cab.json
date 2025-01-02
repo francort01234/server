@@ -707,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-01-02 04:19:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
@@ -894,8 +900,10 @@
       "zombie_villager": "2025-01-01 23:11:35 +0000",
       "skeleton": "2024-12-26 08:38:34 +0000",
       "husk": "2024-12-26 07:55:16 +0000",
+      "blaze": "2025-01-02 04:23:21 +0000",
       "cave_spider": "2024-12-26 07:37:08 +0000",
       "zombie": "2024-12-26 07:39:50 +0000",
+      "witch": "2025-01-02 04:19:12 +0000",
       "spider": "2024-12-26 07:37:43 +0000",
       "creeper": "2025-01-01 20:09:59 +0000",
       "enderman": "2025-01-01 20:15:29 +0000"
@@ -1073,6 +1081,12 @@
   "dungeontactics:recipes/tools/engineers_wrench": {
     "criteria": {
       "has_recipe": "2024-12-26 07:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 04:24:05 +0000"
     },
     "done": true
   },
@@ -1415,6 +1429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 04:24:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-26 07:24:33 +0000"
@@ -1472,6 +1492,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 07:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-02 04:24:05 +0000"
     },
     "done": true
   },
