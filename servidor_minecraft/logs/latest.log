@@ -1152,3 +1152,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [21:16:15] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
 [21:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
 [21:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[21:30:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: N4ZRN lost connection: Disconnected
+[21:30:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN left the game
