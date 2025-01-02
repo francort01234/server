@@ -30021,3 +30021,342 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 
 [20:30:00] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 235 times.
 
+[20:30:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:30:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:30:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:30:50] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 240 times.
+
+[20:30:50] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 240 times.
+
+[20:30:50] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 240 times.
+
+[20:30:50] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 240 times.
+
+[20:30:50] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 240 times.
+
+[20:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D is bleeding...
+[20:30:55] [Server thread/INFO] [tombstone]: The death event of the player FraanG0D was cancelled by another mod
+[20:31:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> ¿
+[20:31:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:31:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:31:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:31:40] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 245 times.
+
+[20:31:40] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 245 times.
+
+[20:31:40] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 245 times.
+
+[20:31:40] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 245 times.
+
+[20:31:40] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 245 times.
+
+[20:31:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:31:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:31:55] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-FraanG0D-2025-01-02_20.31.55-death-0.dat. It can be restored with command '/ob_inventory restore FraanG0D FraanG0D-2025-01-02_20.31.55-death-0'
+[20:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D was slain by Zombie
+[20:31:55] [Server thread/WARN] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:358): Grave drops event for player 'EntityPlayerMP['FraanG0D'/178, l='world', x=-396.84, y=64.00, z=1798.95]' cancelled, grave will not be spawned'
+[20:31:55] [Server thread/INFO] [tombstone]: The last known grave of FraanG0D is at location [name:Last Grave, x:-397, y:64, z:1798] in the dimension 0
+[20:32:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:32:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:32:20] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:32:30] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 250 times.
+
+[20:32:30] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 250 times.
+
+[20:32:30] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 250 times.
+
+[20:32:30] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 250 times.
+
+[20:32:30] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 250 times.
+
+[20:32:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:33:20] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 255 times.
+
+[20:33:20] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 255 times.
+
+[20:33:20] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 255 times.
+
+[20:33:20] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 255 times.
+
+[20:33:20] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 255 times.
+
+[20:33:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:33:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:33:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:34:10] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 260 times.
+
+[20:34:10] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 260 times.
+
+[20:34:10] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 260 times.
+
+[20:34:10] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 260 times.
+
+[20:34:10] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 260 times.
+
+[20:34:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:34:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:34:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:35:00] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 265 times.
+
+[20:35:00] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 265 times.
+
+[20:35:00] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 265 times.
+
+[20:35:00] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 265 times.
+
+[20:35:00] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 265 times.
+
+[20:35:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:35:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:35:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:35:50] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 270 times.
+
+[20:35:50] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 270 times.
+
+[20:35:50] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 270 times.
+
+[20:35:50] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 270 times.
+
+[20:35:50] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 270 times.
+
+[20:35:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:36:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:36:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:36:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Stay Out of my Peripheral!]
+[20:36:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Best Friends Forever]
+[20:36:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:36:40] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 275 times.
+
+[20:36:40] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 275 times.
+
+[20:36:40] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 275 times.
+
+[20:36:40] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 275 times.
+
+[20:36:40] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 275 times.
+
+[20:37:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:37:30] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 280 times.
+
+[20:37:30] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 280 times.
+
+[20:37:30] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 280 times.
+
+[20:37:30] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 280 times.
+
+[20:37:30] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 280 times.
+
+[20:38:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:38:20] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 285 times.
+
+[20:38:20] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 285 times.
+
+[20:38:20] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 285 times.
+
+[20:38:20] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 285 times.
+
+[20:38:20] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 285 times.
+
+[20:38:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:38:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:10] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 290 times.
+
+[20:39:10] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 290 times.
+
+[20:39:10] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 290 times.
+
+[20:39:10] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 290 times.
+
+[20:39:10] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 290 times.
+
+[20:39:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[20:40:00] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 295 times.
+
+[20:40:00] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 295 times.
+
+[20:40:00] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 295 times.
+
+[20:40:00] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 295 times.
+
+[20:40:00] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 295 times.
+
+[20:40:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Into Fire]
+[20:40:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:40:50] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 300 times.
+
+[20:40:50] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 300 times.
+
+[20:40:50] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 300 times.
+
+[20:40:50] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 300 times.
+
+[20:40:50] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 300 times.
+
+[20:41:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:41:40] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 305 times.
+
+[20:41:40] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 305 times.
+
+[20:41:40] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 305 times.
+
+[20:41:40] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 305 times.
+
+[20:41:40] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 305 times.
+
+[20:41:41] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@24fedb0a)
+[20:41:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D moved too quickly! 371.9287187541149,-30.5,-1613.7996545216047
+[20:41:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:41:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:41:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2785ms behind, skipping 55 tick(s)
+[20:41:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:41:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Magma Cube is 0.0016666666
+[20:42:31] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 310 times.
+
+[20:42:31] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 310 times.
+
+[20:42:31] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 310 times.
+
+[20:42:31] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 310 times.
+
+[20:42:31] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 310 times.
+
+[20:42:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:43:21] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 315 times.
+
+[20:43:21] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 315 times.
+
+[20:43:21] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 315 times.
+
+[20:43:21] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 315 times.
+
+[20:43:21] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 315 times.
+
+[20:43:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:44:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:44:11] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 320 times.
+
+[20:44:11] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 320 times.
+
+[20:44:11] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 320 times.
+
+[20:44:11] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 320 times.
+
+[20:44:11] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 320 times.
+
+[20:44:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:45:01] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 325 times.
+
+[20:45:01] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 325 times.
+
+[20:45:01] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 325 times.
+
+[20:45:01] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 325 times.
+
+[20:45:01] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 325 times.
+
+[20:45:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [FraanG0D: Set the time to 1000]
+[20:45:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:45:51] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 330 times.
+
+[20:45:51] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 330 times.
+
+[20:45:51] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 330 times.
+
+[20:45:51] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 330 times.
+
+[20:45:51] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 330 times.
+
+[20:46:01] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[20:46:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:46:41] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 335 times.
+
+[20:46:41] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 335 times.
+
+[20:46:41] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 335 times.
+
+[20:46:41] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 335 times.
+
+[20:46:41] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 335 times.
+
+[20:47:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:31] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 340 times.
+
+[20:47:31] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 340 times.
+
+[20:47:31] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 340 times.
+
+[20:47:31] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 340 times.
+
+[20:47:31] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 340 times.
+
+[20:47:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:47:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:48:20] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [18, 15] in dimension -1 (the_nether) while populating chunk [17, 14], causing cascading worldgen lag.
+[20:48:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:20] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [17, 15] in dimension -1 (the_nether) while populating chunk [17, 14], causing cascading worldgen lag.
+[20:48:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:20] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [19, 15] in dimension -1 (the_nether) while populating chunk [17, 14], causing cascading worldgen lag.
+[20:48:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:20] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [18, 14] in dimension -1 (the_nether) while populating chunk [19, 15], causing cascading worldgen lag.
+[20:48:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:20] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[20:48:22] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 345 times.
+
+[20:48:22] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 345 times.
+
+[20:48:22] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 345 times.
+
+[20:48:22] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 345 times.
+
+[20:48:22] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 345 times.
+
+[20:48:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:48:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:48:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:42] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [18, -3] in dimension -1 (the_nether) while populating chunk [18, -2], causing cascading worldgen lag.
+[20:48:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:42] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [17, -3] in dimension -1 (the_nether) while populating chunk [18, -3], causing cascading worldgen lag.
+[20:48:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:42] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [18, 2] in dimension -1 (the_nether) while populating chunk [18, 3], causing cascading worldgen lag.
+[20:48:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:43] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [19, -1] in dimension -1 (the_nether) while populating chunk [18, 0], causing cascading worldgen lag.
+[20:48:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:43] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [19, -2] in dimension -1 (the_nether) while populating chunk [18, 0], causing cascading worldgen lag.
+[20:48:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:48:43] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[20:48:45] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [17, -4] in dimension -1 (the_nether) while populating chunk [18, -4], causing cascading worldgen lag.
+[20:48:45] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[20:49:11] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 350 times.
+
+[20:49:11] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 350 times.
+
+[20:49:11] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 350 times.
+
+[20:49:11] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 350 times.
+
+[20:49:11] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 350 times.
+
+[20:49:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:49:22] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[20:49:23] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:49:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:49:47] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:50:01] [Server thread/DEBUG] [FML]: The world 52574ab7 (world) may have leaked: seen 355 times.
+
+[20:50:01] [Server thread/DEBUG] [FML]: The world 4fcfd305 (world) may have leaked: seen 355 times.
+
+[20:50:01] [Server thread/DEBUG] [FML]: The world 6d37875c (world) may have leaked: seen 355 times.
+
+[20:50:01] [Server thread/DEBUG] [FML]: The world 62defd89 (world) may have leaked: seen 355 times.
+
+[20:50:01] [Server thread/DEBUG] [FML]: The world d343a4a (world) may have leaked: seen 355 times.
+
+[20:50:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:50:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[20:50:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:50:11] [Server thread/DEBUG] [FML]: The world 39de15a3 (world) may have leaked: first encounter (5 occurrences).
+
+[20:50:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[20:50:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12

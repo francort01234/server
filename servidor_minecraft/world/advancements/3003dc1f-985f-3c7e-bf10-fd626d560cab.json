@@ -490,6 +490,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-01-02 20:36:16 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/clayball_from_clay": {
     "criteria": {
       "has_clay": "2025-01-01 23:42:43 +0000"
@@ -1118,6 +1124,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-02 20:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-26 07:18:29 +0000"
@@ -1303,6 +1315,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-27 07:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-01-02 20:44:53 +0000"
     },
     "done": true
   },
@@ -1515,6 +1533,12 @@
   "dungeontactics:recipes/weapons/wooden_weapons": {
     "criteria": {
       "has_item": "2024-12-26 07:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 20:44:53 +0000"
     },
     "done": true
   },

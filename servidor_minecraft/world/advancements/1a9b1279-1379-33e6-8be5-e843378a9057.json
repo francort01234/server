@@ -276,6 +276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-02 20:40:57 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/boomglove": {
     "criteria": {
       "has_gunpowder": "2024-12-26 07:02:31 +0000"
@@ -626,6 +632,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-02 20:40:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2024-12-26 06:56:44 +0000"
@@ -707,6 +719,12 @@
   "dungeontactics:recipes/misc/ration": {
     "criteria": {
       "has_item": "2024-12-26 07:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 20:40:17 +0000"
     },
     "done": true
   },
@@ -1037,9 +1055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 20:40:12 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/lantern_iron": {
     "criteria": {
       "has_iron": "2024-12-26 06:46:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-02 20:40:12 +0000"
     },
     "done": true
   },
@@ -1251,6 +1281,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2024-12-26 22:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-02 20:40:12 +0000"
     },
     "done": true
   },
@@ -2177,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 20:40:12 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/lantern_magic": {
     "criteria": {
       "has_mcguffin": "2024-12-26 22:00:26 +0000"
@@ -2243,6 +2285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-02 20:40:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2024-12-26 06:56:36 +0000"
@@ -2264,6 +2312,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-26 06:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-02 20:40:17 +0000"
     },
     "done": true
   },
