@@ -1027,3 +1027,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [03:34:59] [Server thread/WARN] [mca]: No skin found for profession: `dungeonsmod:traveler`. A random skin will be generated.
 [03:35:06] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -1216 | 2992 ], underground: true
 [03:36:15] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -976 | 2992 ], underground: false
+[03:36:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-63, 192] in dimension 0 (overworld) while populating chunk [-64, 192], causing cascading worldgen lag.
+[03:36:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:36:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-63, 193] in dimension 0 (overworld) while populating chunk [-64, 192], causing cascading worldgen lag.
+[03:36:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:36:39] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [-64, 193] in dimension 0 (overworld) while populating chunk [-64, 192], causing cascading worldgen lag.
+[03:36:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:36:43] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-68, 194] in dimension 0 (overworld) while populating chunk [-68, 193], causing cascading worldgen lag.
+[03:36:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[03:41:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> franco
+[03:41:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> q bro
+[03:41:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> nada ya encontre
+[03:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> xd
+[03:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> o kgay
+[03:42:28] [Server thread/WARN] [mca]: No skin found for profession: `dungeonsmod:traveler`. A random skin will be generated.
+[03:44:32] [Server thread/INFO] [mca]: Villager death: Sydney. Caused by: Zombie. UUID: 3cbe84e0-5aef-43c5-a035-dbb091e3d3d6
