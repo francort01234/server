@@ -1133,3 +1133,6 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
 	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
 	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
 	... 5 more
+[04:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:02:34] [Server thread/INFO] [mca]: Villager death: Doug. Caused by: Death Worm. UUID: 407868ae-150f-4f73-99a4-5e51b0581d97
+[04:05:07] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player N4ZRN)

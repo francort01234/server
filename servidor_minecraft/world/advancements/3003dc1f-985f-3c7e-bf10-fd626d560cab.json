@@ -324,6 +324,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-01-02 04:06:11 +0000",
+      "has_red_dye": "2025-01-02 04:06:11 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_wool": "2024-12-26 07:30:23 +0000"
@@ -500,6 +507,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-02 04:06:11 +0000",
+      "has_bonemeal": "2025-01-02 04:06:11 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2024-12-26 07:14:31 +0000"
@@ -611,6 +625,13 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-01-02 04:06:11 +0000",
+      "has_purple_dye": "2025-01-02 04:06:11 +0000"
     },
     "done": true
   },
@@ -1043,6 +1064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-01-02 04:06:11 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/engineers_wrench": {
     "criteria": {
       "has_recipe": "2024-12-26 07:56:14 +0000"
@@ -1073,6 +1100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-01-02 04:06:11 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/ducttape": {
     "criteria": {
       "has_anvil": "2024-12-26 08:30:32 +0000"
@@ -1082,6 +1115,13 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-26 07:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-01-02 04:06:11 +0000",
+      "has_red_dye": "2025-01-02 04:06:11 +0000"
     },
     "done": true
   },
@@ -1106,6 +1146,13 @@
   "tombstone:tutorial/find_grave_dust": {
     "criteria": {
       "has_grave_dust": "2024-12-26 08:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_gray_dye": "2025-01-02 04:06:11 +0000",
+      "has_bonemeal": "2025-01-02 04:06:11 +0000"
     },
     "done": true
   },
@@ -1540,6 +1587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-02 04:06:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-26 07:02:04 +0000"
@@ -1678,6 +1731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 04:06:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
@@ -1693,6 +1752,13 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-26 07:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-01-02 04:06:11 +0000",
+      "has_yellow_dye": "2025-01-02 04:06:11 +0000"
     },
     "done": true
   },
@@ -1735,6 +1801,12 @@
   "inventorypets:inventorypets/enderchest": {
     "criteria": {
       "crafting_table": "2025-01-01 20:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2025-01-02 04:06:11 +0000"
     },
     "done": true
   }
