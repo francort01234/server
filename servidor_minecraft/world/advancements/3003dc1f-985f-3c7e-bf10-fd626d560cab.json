@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 06:57:32 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/sticks_from_cactus": {
     "criteria": {
       "has_stick": "2024-12-26 07:18:29 +0000"
@@ -122,6 +128,12 @@
   "dungeontactics:recipes/misc/convenience/melonslice_from_melon": {
     "criteria": {
       "has_melon": "2024-12-26 07:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 04:47:44 +0000"
     },
     "done": true
   },
@@ -367,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-02 04:58:45 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/boomglove": {
     "criteria": {
       "has_gunpowder": "2024-12-26 07:17:34 +0000"
@@ -397,6 +415,7 @@
       "apple": "2024-12-26 07:40:19 +0000",
       "melon": "2024-12-26 07:09:52 +0000",
       "mutton": "2024-12-26 07:32:21 +0000",
+      "raw_salmon": "2025-01-02 07:12:42 +0000",
       "bread": "2024-12-26 07:02:52 +0000",
       "golden_apple": "2024-12-26 07:25:29 +0000",
       "beetroot": "2024-12-26 07:06:10 +0000",
@@ -426,6 +445,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:18:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-01-02 06:21:52 +0000"
     },
     "done": true
   },
@@ -520,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-01-02 06:57:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-27 05:56:53 +0000"
@@ -604,6 +635,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "desert": "2025-01-02 04:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2025-01-02 06:49:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:02:39 +0000"
@@ -613,6 +656,12 @@
   "dungeontactics:recipes/armour/iron_plate_armour": {
     "criteria": {
       "has_item": "2024-12-26 07:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-01-02 05:48:02 +0000"
     },
     "done": true
   },
@@ -704,6 +753,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-26 07:36:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-02 05:43:10 +0000"
     },
     "done": true
   },
@@ -896,6 +951,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-01-01 23:12:52 +0000",
+      "stray": "2025-01-02 04:27:13 +0000",
       "wither_skeleton": "2025-01-01 20:16:11 +0000",
       "zombie_villager": "2025-01-01 23:11:35 +0000",
       "skeleton": "2024-12-26 08:38:34 +0000",
@@ -903,7 +959,9 @@
       "blaze": "2025-01-02 04:23:21 +0000",
       "cave_spider": "2024-12-26 07:37:08 +0000",
       "zombie": "2024-12-26 07:39:50 +0000",
+      "silverfish": "2025-01-02 04:48:58 +0000",
       "witch": "2025-01-02 04:19:12 +0000",
+      "guardian": "2025-01-02 04:46:52 +0000",
       "spider": "2024-12-26 07:37:43 +0000",
       "creeper": "2025-01-01 20:09:59 +0000",
       "enderman": "2025-01-01 20:15:29 +0000"
@@ -961,6 +1019,12 @@
   "dungeontactics:recipes/misc/flour": {
     "criteria": {
       "has_wheat": "2024-12-26 07:32:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-01-02 04:35:43 +0000"
     },
     "done": true
   },
@@ -1087,6 +1151,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-02 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-02 05:48:02 +0000"
     },
     "done": true
   },
@@ -1314,6 +1384,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-01-02 06:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-01-02 04:47:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 07:24:33 +0000"
@@ -1323,6 +1405,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-27 07:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 06:48:01 +0000"
     },
     "done": true
   },
@@ -1383,7 +1471,8 @@
   "dungeontactics:dungeoneering/born_survivor": {
     "criteria": {
       "stab": "2024-12-26 07:00:32 +0000",
-      "cherrybomb": "2024-12-26 07:02:52 +0000"
+      "cherrybomb": "2024-12-26 07:02:52 +0000",
+      "heart": "2025-01-02 04:47:14 +0000"
     },
     "done": false
   },
@@ -1414,6 +1503,12 @@
   "dungeontactics:recipes/weapons/wooden_weapons": {
     "criteria": {
       "has_item": "2024-12-26 07:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 04:47:44 +0000"
     },
     "done": true
   },
@@ -1495,6 +1590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 06:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-01-02 04:24:05 +0000"
@@ -1532,6 +1633,8 @@
       "savanna": "2024-12-26 07:19:09 +0000",
       "plains": "2024-12-26 07:31:14 +0000",
       "savanna_rock": "2024-12-26 07:00:33 +0000",
+      "taiga": "2025-01-02 05:02:06 +0000",
+      "taiga_hills": "2025-01-02 05:02:55 +0000",
       "ocean": "2024-12-26 07:02:07 +0000",
       "extreme_hills": "2024-12-27 06:14:49 +0000",
       "roofed_forest": "2024-12-27 05:59:32 +0000",
@@ -1697,6 +1800,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-01-02 05:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2025-01-02 06:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-26 07:24:33 +0000"
@@ -1739,6 +1854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-02 04:47:44 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2024-12-26 07:00:33 +0000"
@@ -1760,6 +1881,12 @@
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2025-01-02 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-01-02 06:35:25 +0000"
     },
     "done": true
   },

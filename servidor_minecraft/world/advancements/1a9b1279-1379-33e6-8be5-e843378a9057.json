@@ -1466,6 +1466,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/enchantingtable": {
+    "criteria": {
+      "crafting_table": "2025-01-02 07:12:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:40:37 +0000"
@@ -1494,6 +1500,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-26 06:51:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-01-02 04:56:15 +0000"
     },
     "done": true
   },
