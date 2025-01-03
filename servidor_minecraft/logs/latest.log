@@ -4,3 +4,13 @@
 [01:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
 [01:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
 [01:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[01:51:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:51:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:51:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:51:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:51:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:51:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:51:21] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:51:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:51:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:51:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
