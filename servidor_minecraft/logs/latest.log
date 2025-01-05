@@ -1062,3 +1062,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [22:47:45] [Server thread/INFO] [Waila]: Player EntityPlayerMP['FraanG0D'/16096, l='world', x=-401.55, y=64.00, z=1794.00] connected. Sending ping
 [22:47:45] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player FraanG0D
 [22:47:45] [Thread-103/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[22:55:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.monster.EntitySlime from class com.inventorypets.entities.EntityAnvilPet
+[23:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[23:03:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: N4ZRN has made the advancement [Sea of Monsters]
+[23:04:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> franco
+[23:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> quep
+[23:04:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[23:04:35] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[23:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> cuantos diamantes por 2 huevos de vacas
+[23:04:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> spawner
+[23:04:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> AJKSDJKASJKD
+[23:05:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> no seas lacra
+[23:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> busca por ahi
+[23:05:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> no encuentro ni una gorda
+[23:09:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[23:09:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[23:10:51] [Server thread/INFO] [mca]: Villager death: Ione. Caused by: Zombie. UUID: fb971279-dbf4-4341-a8ed-513fffd22963
