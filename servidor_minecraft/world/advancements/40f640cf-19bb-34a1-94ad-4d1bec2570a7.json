@@ -2508,6 +2508,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/brewingstand": {
+    "criteria": {
+      "crafting_table": "2025-01-06 22:43:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-26 07:57:01 +0000"
