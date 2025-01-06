@@ -983,3 +983,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [05:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
 [05:36:33] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 35348
 [05:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[06:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
