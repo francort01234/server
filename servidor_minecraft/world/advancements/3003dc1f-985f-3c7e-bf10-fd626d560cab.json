@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 06:56:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-26 07:24:33 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-05 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-06 06:57:58 +0000"
     },
     "done": true
   },
@@ -561,6 +573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-01-06 06:56:53 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2024-12-26 07:14:31 +0000"
@@ -678,7 +696,9 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2025-01-02 06:49:53 +0000",
-      "bred_cow": "2025-01-05 22:53:01 +0000"
+      "bred_sheep": "2025-01-06 07:15:20 +0000",
+      "bred_cow": "2025-01-05 22:53:01 +0000",
+      "bred_pig": "2025-01-06 07:10:29 +0000"
     },
     "done": false
   },
@@ -1772,6 +1792,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-05 22:37:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-06 07:14:05 +0000"
     },
     "done": true
   },
