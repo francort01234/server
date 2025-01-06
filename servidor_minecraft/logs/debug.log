@@ -30583,3 +30583,147 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 
 [23:53:59] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 545 times.
 
+[23:54:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:54:49] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 550 times.
+
+[23:54:49] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 550 times.
+
+[23:54:49] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 550 times.
+
+[23:54:49] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 550 times.
+
+[23:54:49] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 550 times.
+
+[23:55:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: baltacraft lost connection: Disconnected
+[23:55:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: baltacraft left the game
+[23:55:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[23:55:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[23:55:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:55:39] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 555 times.
+
+[23:55:39] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 555 times.
+
+[23:55:39] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 555 times.
+
+[23:55:39] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 555 times.
+
+[23:55:39] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 555 times.
+
+[23:56:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:56:29] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 560 times.
+
+[23:56:29] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 560 times.
+
+[23:56:29] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 560 times.
+
+[23:56:29] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 560 times.
+
+[23:56:29] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 560 times.
+
+[23:56:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:57:19] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 565 times.
+
+[23:57:19] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 565 times.
+
+[23:57:19] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 565 times.
+
+[23:57:19] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 565 times.
+
+[23:57:19] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 565 times.
+
+[23:57:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:58:09] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 570 times.
+
+[23:58:09] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 570 times.
+
+[23:58:09] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 570 times.
+
+[23:58:09] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 570 times.
+
+[23:58:09] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 570 times.
+
+[23:58:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:58:59] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 575 times.
+
+[23:58:59] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 575 times.
+
+[23:58:59] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 575 times.
+
+[23:58:59] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 575 times.
+
+[23:58:59] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 575 times.
+
+[23:59:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:59:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[23:59:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[23:59:49] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 580 times.
+
+[23:59:49] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 580 times.
+
+[23:59:49] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 580 times.
+
+[23:59:49] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 580 times.
+
+[23:59:49] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 580 times.
+
+[23:59:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[00:00:39] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 585 times.
+
+[00:00:39] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 585 times.
+
+[00:00:39] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 585 times.
+
+[00:00:39] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 585 times.
+
+[00:00:39] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 585 times.
+
+[00:00:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:29] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 590 times.
+
+[00:01:29] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 590 times.
+
+[00:01:29] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 590 times.
+
+[00:01:29] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 590 times.
+
+[00:01:29] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 590 times.
+
+[00:02:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Chicken is 0.001
+[00:02:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:19] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 595 times.
+
+[00:02:19] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 595 times.
+
+[00:02:19] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 595 times.
+
+[00:02:19] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 595 times.
+
+[00:02:19] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 595 times.
+
+[00:02:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[00:02:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[00:03:09] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 600 times.
+
+[00:03:09] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 600 times.
+
+[00:03:09] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 600 times.
+
+[00:03:09] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 600 times.
+
+[00:03:09] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 600 times.
+
+[00:03:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:59] [Server thread/DEBUG] [FML]: The world 960a22c (world) may have leaked: seen 605 times.
+
+[00:03:59] [Server thread/DEBUG] [FML]: The world 53b1ac8c (world) may have leaked: seen 605 times.
+
+[00:03:59] [Server thread/DEBUG] [FML]: The world 1dbeb49f (world) may have leaked: seen 605 times.
+
+[00:03:59] [Server thread/DEBUG] [FML]: The world 2a7cc722 (world) may have leaked: seen 605 times.
+
+[00:03:59] [Server thread/DEBUG] [FML]: The world 1e067d4a (world) may have leaked: seen 605 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
