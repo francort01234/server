@@ -47,3 +47,10 @@
 [00:20:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [29, -25] in dimension 0 (overworld) while populating chunk [30, -24], causing cascading worldgen lag.
 [00:20:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [00:20:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ThomyBl has made the advancement [A Strange Grave's Dust]
+[00:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ThomyBl has made the advancement [Take Aim]
+[00:30:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[00:30:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[00:31:46] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[00:31:46] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[00:32:18] [Server thread/INFO] [mca]: Villager death: Shawnee. Caused by: Theron. UUID: 1bb3fda8-df36-4782-a03c-239581bfec76
+[00:32:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ThomyBl has made the advancement [Acquire Hardware]
