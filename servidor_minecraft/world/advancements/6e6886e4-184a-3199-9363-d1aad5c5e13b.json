@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-06 20:17:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-01-06 00:18:35 +0000"
@@ -284,8 +290,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "pumpkin_pie": "2025-01-06 20:24:45 +0000",
       "mutton": "2025-01-06 00:18:11 +0000",
+      "bread": "2025-01-06 20:23:12 +0000",
       "raw_cod": "2025-01-06 00:28:05 +0000",
+      "golden_carrot": "2025-01-06 20:25:30 +0000",
       "cooked_chicken": "2025-01-06 00:15:11 +0000"
     },
     "done": false
@@ -341,6 +350,12 @@
   "dungeontactics:recipes/misc/convenience/clayball_from_clay": {
     "criteria": {
       "has_clay": "2025-01-06 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/info_grave_key": {
+    "criteria": {
+      "grave_key": "2025-01-06 20:20:11 +0000"
     },
     "done": true
   },
@@ -401,6 +416,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-06 00:30:32 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/dungeonpedia": {
+    "criteria": {
+      "has_book": "2025-01-06 20:17:22 +0000"
     },
     "done": true
   },
@@ -491,6 +512,12 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-01-06 00:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-06 20:15:00 +0000"
     },
     "done": true
   },
@@ -631,6 +658,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-01-06 20:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-06 00:16:37 +0000"
@@ -640,6 +673,12 @@
   "dungeontactics:recipes/misc/rings": {
     "criteria": {
       "has_gold": "2025-01-06 04:14:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-06 20:20:11 +0000"
     },
     "done": true
   },
@@ -805,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-06 20:17:22 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/climbing_rope": {
     "criteria": {
       "has_recipe": "2025-01-06 00:10:34 +0000"
@@ -903,6 +948,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-06 20:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-01-06 00:18:28 +0000"
@@ -924,6 +975,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-01-06 00:21:07 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/anvil": {
+    "criteria": {
+      "crafting_table": "2025-01-06 20:23:51 +0000"
     },
     "done": true
   },
@@ -1012,6 +1069,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-06 00:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-01-06 20:23:52 +0000"
     },
     "done": true
   },
