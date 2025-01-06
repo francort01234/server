@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "desert": "2025-01-06 21:38:18 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/stegosaurus": {
     "criteria": {
       "iron_pickaxe": "2024-12-30 03:09:03 +0000"
@@ -997,6 +1003,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-06 21:35:51 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/bone_weapons": {
+    "criteria": {
+      "has_item": "2025-01-06 21:39:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-26 07:26:46 +0000"
@@ -1221,6 +1239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-06 21:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2024-12-26 07:58:04 +0000"
@@ -1284,6 +1308,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2024-12-30 01:18:31 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/bone_armour": {
+    "criteria": {
+      "has_item": "2025-01-06 21:39:16 +0000"
     },
     "done": true
   },
@@ -1362,6 +1392,12 @@
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-12-29 05:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-01-06 21:35:51 +0000"
     },
     "done": true
   },
@@ -1507,6 +1543,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-28 08:20:48 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/bone_tools": {
+    "criteria": {
+      "has_item": "2025-01-06 21:39:16 +0000"
     },
     "done": true
   },
@@ -1683,6 +1725,12 @@
   "dungeontactics:recipes/tools/mortar\u0026pestle": {
     "criteria": {
       "has_flint": "2024-12-26 08:28:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/myrmex_resin": {
+    "criteria": {
+      "desert": "2025-01-06 21:40:28 +0000"
     },
     "done": true
   },
@@ -2292,6 +2340,12 @@
     },
     "done": true
   },
+  "inventorypets:inventorypets/anvil": {
+    "criteria": {
+      "crafting_table": "2025-01-06 21:32:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-27 23:45:38 +0000"
@@ -2349,6 +2403,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2024-12-27 23:26:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2025-01-06 21:32:21 +0000"
     },
     "done": true
   },

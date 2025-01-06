@@ -300,6 +300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-06 21:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-26 22:14:02 +0000"
@@ -674,6 +680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-06 21:46:47 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/rings": {
     "criteria": {
       "has_gold": "2024-12-26 22:14:02 +0000"
@@ -944,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-01-06 21:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 06:46:09 +0000"
@@ -1094,6 +1112,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-26 07:24:37 +0000",
+      "swampland": "2025-01-06 22:10:33 +0000",
       "deep_ocean": "2024-12-26 08:47:25 +0000",
       "beaches": "2024-12-26 06:43:18 +0000",
       "extreme_hills_with_trees": "2024-12-28 23:30:30 +0000",
@@ -1920,6 +1939,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-06 21:46:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-26 08:44:16 +0000"
@@ -2529,6 +2554,12 @@
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2024-12-26 06:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-06 21:46:47 +0000"
     },
     "done": true
   },
