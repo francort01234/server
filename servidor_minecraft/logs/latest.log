@@ -1002,3 +1002,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [16:49:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 4216714a-b6a9-4276-aa23-e208fc8926e4
 [16:49:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 32b55d22-5c1e-4eb7-bd57-fd875d00d3b2
 [16:52:31] [Server thread/INFO] [mca]: Villager death: Sherise. Caused by: Zombie. UUID: c58bedc6-3730-45d2-b7ca-ae1253006242
+[17:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[17:13:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[17:13:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
