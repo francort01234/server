@@ -1032,3 +1032,109 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [11:50:26] [Server thread/INFO] [Waila]: Player EntityPlayerMP['FraanG0D'/18463, l='world', x=-383.09, y=64.00, z=1798.75] connected. Sending ping
 [11:50:26] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player FraanG0D
 [11:50:26] [Thread-195/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
+[11:51:34] [Server thread/INFO] [mca]: Villager death: Zoe. Caused by: Zombie. UUID: c8e71d8a-78bf-406f-9974-264853b24064
+[11:51:38] [Server thread/INFO] [mca]: Villager death: Mandie. Caused by: Zombie. UUID: 1969d44b-82f3-4dd4-860b-d40242eedcab
+[11:52:00] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[11:52:00] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[11:52:00] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[11:52:00] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[11:52:00] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[11:52:00] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[11:52:13] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [50, 21] in dimension 0 (overworld) while populating chunk [50, 22], causing cascading worldgen lag.
+[11:52:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:52:20] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[11:52:20] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[11:52:20] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[11:52:48] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 848 | 256 ], underground: false
+[11:53:03] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [45, 11] in dimension 0 (overworld) while populating chunk [46, 11], causing cascading worldgen lag.
+[11:53:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:53:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [48, 11] in dimension 0 (overworld) while populating chunk [45, 11], causing cascading worldgen lag.
+[11:53:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:53:03] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [47, 11] in dimension 0 (overworld) while populating chunk [45, 11], causing cascading worldgen lag.
+[11:53:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[11:54:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Into a Million Pieces]
+[11:59:43] [Server thread/ERROR] [FML]: FMLIndexedMessageCodec exception caught
+java.lang.RuntimeException: Missing
+	at net.minecraftforge.fml.server.FMLServerHandler.getClientToServerNetworkManager(FMLServerHandler.java:299) ~[FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.getClientToServerNetworkManager(FMLCommonHandler.java:555) ~[FMLCommonHandler.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler$OutboundTarget$10.selectNetworks(FMLOutboundHandler.java:329) ~[FMLOutboundHandler$OutboundTarget$10.class:?]
+	at net.minecraftforge.fml.common.network.FMLOutboundHandler.write(FMLOutboundHandler.java:378) ~[FMLOutboundHandler.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:730) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:816) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:723) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:111) ~[MessageToMessageEncoder.class:?]
+	at io.netty.handler.codec.MessageToMessageCodec.write(MessageToMessageCodec.java:116) ~[MessageToMessageCodec.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:738) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:801) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:814) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:794) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:831) ~[AbstractChannelHandlerContext.class:?]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1032) ~[DefaultChannelPipeline.class:?]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:296) ~[AbstractChannel.class:?]
+	at net.minecraftforge.fml.common.network.simpleimpl.SimpleNetworkWrapper.sendToServer(SimpleNetworkWrapper.java:321) [SimpleNetworkWrapper.class:?]
+	at deconstruction.common.container.ContainerDeconTable.func_75130_a(ContainerDeconTable.java:139) [ContainerDeconTable.class:?]
+	at net.minecraft.inventory.InventoryCrafting.func_70298_a(SourceFile:85) [afy.class:?]
+	at deconstruction.common.container.ContainerDeconTable.decrementCurrentRecipe(ContainerDeconTable.java:104) [ContainerDeconTable.class:?]
+	at deconstruction.common.container.ContainerDeconTable.access$000(ContainerDeconTable.java:22) [ContainerDeconTable.class:?]
+	at deconstruction.common.container.ContainerDeconTable$3.func_190901_a(ContainerDeconTable.java:66) [ContainerDeconTable$3.class:?]
+	at net.minecraft.inventory.Container.func_184996_a(Container.java:303) [afr.class:?]
+	at deconstruction.common.container.ContainerDeconTable.func_184996_a(ContainerDeconTable.java:200) [ContainerDeconTable.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:1162) [pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) [lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) [lf.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) [hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[11:59:43] [Server thread/FATAL] [net.minecraft.server.MinecraftServer]: Error executing task
+java.util.concurrent.ExecutionException: java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
+	at java.util.concurrent.FutureTask.report(FutureTask.java:122) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.get(FutureTask.java:192) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:47) [h.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:723) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
+	at deconstruction.common.container.ContainerDeconTable.func_75130_a(ContainerDeconTable.java:140) ~[ContainerDeconTable.class:?]
+	at net.minecraft.inventory.InventoryCrafting.func_70298_a(SourceFile:85) ~[afy.class:?]
+	at deconstruction.common.container.ContainerDeconTable.decrementCurrentRecipe(ContainerDeconTable.java:104) ~[ContainerDeconTable.class:?]
+	at deconstruction.common.container.ContainerDeconTable.access$000(ContainerDeconTable.java:22) ~[ContainerDeconTable.class:?]
+	at deconstruction.common.container.ContainerDeconTable$3.func_190901_a(ContainerDeconTable.java:66) ~[ContainerDeconTable$3.class:?]
+	at net.minecraft.inventory.Container.func_184996_a(Container.java:303) ~[afr.class:?]
+	at deconstruction.common.container.ContainerDeconTable.func_184996_a(ContainerDeconTable.java:200) ~[ContainerDeconTable.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:1162) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.Minecraft
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:101) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_432]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_432]
+	at deconstruction.common.container.ContainerDeconTable.func_75130_a(ContainerDeconTable.java:140) ~[ContainerDeconTable.class:?]
+	at net.minecraft.inventory.InventoryCrafting.func_70298_a(SourceFile:85) ~[afy.class:?]
+	at deconstruction.common.container.ContainerDeconTable.decrementCurrentRecipe(ContainerDeconTable.java:104) ~[ContainerDeconTable.class:?]
+	at deconstruction.common.container.ContainerDeconTable.access$000(ContainerDeconTable.java:22) ~[ContainerDeconTable.class:?]
+	at deconstruction.common.container.ContainerDeconTable$3.func_190901_a(ContainerDeconTable.java:66) ~[ContainerDeconTable$3.class:?]
+	at net.minecraft.inventory.Container.func_184996_a(Container.java:303) ~[afr.class:?]
+	at deconstruction.common.container.ContainerDeconTable.func_184996_a(ContainerDeconTable.java:200) ~[ContainerDeconTable.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147351_a(NetHandlerPlayServer.java:1162) ~[pa.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:38) ~[lf.class:?]
+	at net.minecraft.network.play.client.CPacketClickWindow.func_148833_a(CPacketClickWindow.java:12) ~[lf.class:?]
+	at net.minecraft.network.PacketThreadUtil$1.run(SourceFile:13) ~[hv$1.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) ~[?:1.8.0_432]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) ~[?:1.8.0_432]
+	at net.minecraft.util.Util.func_181617_a(SourceFile:46) ~[h.class:?]
+	... 5 more
+[12:00:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
