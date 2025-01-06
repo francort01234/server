@@ -1208,3 +1208,4 @@ Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/Minecraft
 [12:18:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
 [12:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
 [12:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[12:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
