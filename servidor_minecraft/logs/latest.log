@@ -997,3 +997,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [04:05:14] [Thread-65/INFO] [STDOUT]: [net.torocraft.dailies.network.QuestInventoryFetcher:buildRequest:42]: DAILIES REQUEST modVersion = 1.12.2-6
 [04:11:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID fa1ca134-493b-4e1f-b17a-04465e4634cc
 [04:11:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mca:entityvillagermca that already exists with UUID a7e16f1c-f2ea-4198-8dc8-13115f55d0bb
+[04:16:12] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[04:16:12] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[04:16:12] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[04:16:12] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[04:16:12] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[04:16:12] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[04:19:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 32b55d22-5c1e-4eb7-bd57-fd875d00d3b2
+[04:19:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0ffd7c01-0e87-4485-8f4e-d8ca633d10bf
+[04:19:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID f0a44f10-cbbd-48d0-869c-88d22f91258a
+[04:19:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 93ce2ee9-a04c-40d5-aeb2-c9f216d81847
+[04:19:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[04:19:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 4216714a-b6a9-4276-aa23-e208fc8926e4
+[04:19:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 4236c498-f37f-4c77-bd05-eb4f08a1188c
+[04:19:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
+[04:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:21:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0ffd7c01-0e87-4485-8f4e-d8ca633d10bf
+[04:21:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[04:21:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12

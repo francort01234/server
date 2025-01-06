@@ -29682,3 +29682,175 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [04:13:36] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 115 times.
 
 [04:13:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:14:26] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 120 times.
+
+[04:14:26] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 120 times.
+
+[04:14:26] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 120 times.
+
+[04:14:26] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 120 times.
+
+[04:14:26] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 120 times.
+
+[04:14:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:15:16] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 125 times.
+
+[04:15:16] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 125 times.
+
+[04:15:16] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 125 times.
+
+[04:15:16] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 125 times.
+
+[04:15:16] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 125 times.
+
+[04:15:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:06] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 130 times.
+
+[04:16:06] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 130 times.
+
+[04:16:06] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 130 times.
+
+[04:16:06] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 130 times.
+
+[04:16:06] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 130 times.
+
+[04:16:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:16:12] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[04:16:12] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[04:16:12] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[04:16:12] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[04:16:12] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[04:16:12] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[04:16:12] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[04:16:12] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[04:16:12] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[04:16:12] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[04:16:12] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[04:16:12] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[04:16:12] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[04:16:12] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[04:16:12] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[04:16:56] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 135 times.
+
+[04:16:56] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 135 times.
+
+[04:16:56] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 135 times.
+
+[04:16:56] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 135 times.
+
+[04:16:56] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 135 times.
+
+[04:16:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:17:46] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 140 times.
+
+[04:17:46] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 140 times.
+
+[04:17:46] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 140 times.
+
+[04:17:46] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 140 times.
+
+[04:17:46] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 140 times.
+
+[04:18:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:18:36] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 145 times.
+
+[04:18:36] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 145 times.
+
+[04:18:36] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 145 times.
+
+[04:18:36] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 145 times.
+
+[04:18:36] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 145 times.
+
+[04:19:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 32b55d22-5c1e-4eb7-bd57-fd875d00d3b2
+[04:19:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0ffd7c01-0e87-4485-8f4e-d8ca633d10bf
+[04:19:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID f0a44f10-cbbd-48d0-869c-88d22f91258a
+[04:19:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 93ce2ee9-a04c-40d5-aeb2-c9f216d81847
+[04:19:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bd063695-1d30-4cd2-adef-030db5a57c1e
+[04:19:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 4216714a-b6a9-4276-aa23-e208fc8926e4
+[04:19:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 4236c498-f37f-4c77-bd05-eb4f08a1188c
+[04:19:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:19:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0124fdb3-6fd7-46e6-89d1-e68aafaf2a14
+[04:19:26] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 150 times.
+
+[04:19:26] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 150 times.
+
+[04:19:26] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 150 times.
+
+[04:19:26] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 150 times.
+
+[04:19:26] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 150 times.
+
+[04:19:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[04:20:16] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 155 times.
+
+[04:20:16] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 155 times.
+
+[04:20:16] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 155 times.
+
+[04:20:16] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 155 times.
+
+[04:20:16] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 155 times.
+
+[04:20:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:21:03] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID 0ffd7c01-0e87-4485-8f4e-d8ca633d10bf
+[04:21:06] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 160 times.
+
+[04:21:06] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 160 times.
+
+[04:21:06] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 160 times.
+
+[04:21:06] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 160 times.
+
+[04:21:06] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 160 times.
+
+[04:21:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:21:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.sturgeon that already exists with UUID e7c4ce50-5fa5-4147-a436-3aad54b60c06
+[04:21:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.nautilus that already exists with UUID bf2e7ede-357f-4df8-a22a-dde0f6a02e12
+[04:21:56] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 165 times.
+
+[04:21:56] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 165 times.
+
+[04:21:56] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 165 times.
+
+[04:21:56] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 165 times.
+
+[04:21:56] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 165 times.
+
+[04:22:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:22:37] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Piranha is 0.01
+[04:22:46] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 170 times.
+
+[04:22:46] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 170 times.
+
+[04:22:46] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 170 times.
+
+[04:22:46] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 170 times.
+
+[04:22:46] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 170 times.
+
+[04:22:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:23:36] [Server thread/DEBUG] [FML]: The world 6bd7ec11 (world) may have leaked: seen 175 times.
+
+[04:23:36] [Server thread/DEBUG] [FML]: The world 329b879c (world) may have leaked: seen 175 times.
+
+[04:23:36] [Server thread/DEBUG] [FML]: The world 1987feb5 (world) may have leaked: seen 175 times.
+
+[04:23:36] [Server thread/DEBUG] [FML]: The world 52cdaf90 (world) may have leaked: seen 175 times.
+
+[04:23:36] [Server thread/DEBUG] [FML]: The world 34cfe7c6 (world) may have leaked: seen 175 times.
+
+[04:23:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:23:51] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:23:53] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
