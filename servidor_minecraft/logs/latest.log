@@ -1016,3 +1016,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [11:06:26] [Server thread/INFO] [mca]: Villager death: Hugo. Caused by: Zombie. UUID: fbdfab0e-39bb-4b78-93a1-d1ac60119b25
 [11:18:22] [Server thread/INFO] [mca]: Villager death: Maryann. Caused by: drown. UUID: 0801e3fc-751a-43a9-b000-1bebec821539
 [11:20:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[11:35:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FraanG0D lost connection: Disconnected
+[11:35:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D left the game
+[11:40:00] [Server thread/INFO] [tombstone]: All players have been successfully backed up
