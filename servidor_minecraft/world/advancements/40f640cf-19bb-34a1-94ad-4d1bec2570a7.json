@@ -593,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-26 07:26:46 +0000"
@@ -2295,6 +2301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:37:44 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/lantern_magic": {
     "criteria": {
       "has_gold": "2024-12-26 08:30:57 +0000"
@@ -2328,6 +2340,12 @@
   "dungeontactics:recipes/misc/cut_diamond": {
     "criteria": {
       "has_diamond": "2024-12-26 07:26:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_tablet_of_recall": "2025-01-07 02:41:19 +0000"
     },
     "done": true
   },
@@ -2475,6 +2493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-26 07:35:07 +0000"
@@ -2511,6 +2535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:37:44 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "quiver": "2024-12-26 07:15:30 +0000"
@@ -2544,6 +2574,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2024-12-26 07:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-07 02:37:44 +0000"
     },
     "done": true
   },
