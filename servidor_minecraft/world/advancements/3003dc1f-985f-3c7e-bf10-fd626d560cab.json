@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-07 02:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-26 07:18:43 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-02 04:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-07 02:16:49 +0000"
     },
     "done": true
   },
@@ -1449,6 +1461,12 @@
     "criteria": {
       "has_gray_dye": "2025-01-02 04:06:11 +0000",
       "has_bonemeal": "2025-01-02 04:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-07 02:16:50 +0000"
     },
     "done": true
   },
