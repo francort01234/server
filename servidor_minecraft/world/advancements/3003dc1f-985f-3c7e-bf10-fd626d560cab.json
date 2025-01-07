@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-06 22:48:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
@@ -357,6 +363,12 @@
   "dungeontactics:recipes/traps/fan_block": {
     "criteria": {
       "has_item": "2024-12-26 07:56:14 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/snowballs_from_snow": {
+    "criteria": {
+      "has_snowball": "2025-01-06 22:48:40 +0000"
     },
     "done": true
   },
@@ -1512,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-01-06 22:48:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-26 07:30:23 +0000"
@@ -1904,6 +1922,8 @@
       "forest_hills": "2024-12-26 07:17:16 +0000",
       "savanna": "2024-12-26 07:19:09 +0000",
       "plains": "2024-12-26 07:31:14 +0000",
+      "jungle_hills": "2025-01-06 22:51:23 +0000",
+      "jungle_edge": "2025-01-06 22:56:13 +0000",
       "savanna_rock": "2024-12-26 07:00:33 +0000",
       "taiga": "2025-01-02 05:02:06 +0000",
       "taiga_hills": "2025-01-02 05:02:55 +0000",
@@ -1912,6 +1932,7 @@
       "extreme_hills": "2024-12-27 06:14:49 +0000",
       "roofed_forest": "2024-12-27 05:59:32 +0000",
       "river": "2024-12-26 07:02:02 +0000",
+      "jungle": "2025-01-06 22:51:47 +0000",
       "desert": "2024-12-26 07:54:28 +0000",
       "stone_beach": "2024-12-27 07:05:02 +0000"
     },
