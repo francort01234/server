@@ -31565,3 +31565,382 @@ com.google.gson.JsonSyntaxException: Unknown item 'futureminecraf:oldbrick'
 [04:44:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> gracoas brpder
 [04:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> ALJKSDJKASDJKASd
 [04:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> gil
+[04:44:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> acsi
+[04:44:30] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 745 times.
+
+[04:44:30] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 745 times.
+
+[04:44:30] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 745 times.
+
+[04:44:30] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 745 times.
+
+[04:44:30] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 745 times.
+
+[04:44:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:44:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> nose che
+[04:44:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FraanG0D has made the advancement [Bring Home the Beacon]
+[04:45:19] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 750 times.
+
+[04:45:19] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 750 times.
+
+[04:45:19] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 750 times.
+
+[04:45:19] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 750 times.
+
+[04:45:19] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 750 times.
+
+[04:45:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> asd
+[04:45:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> no
+[04:45:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:45:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 8fef7ddc-0809-4b52-ae69-34ed24092d14
+[04:46:09] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 755 times.
+
+[04:46:09] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 755 times.
+
+[04:46:09] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 755 times.
+
+[04:46:09] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 755 times.
+
+[04:46:09] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 755 times.
+
+[04:46:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> yes
+[04:46:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Fire Dragon is 0.001
+[04:46:59] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 760 times.
+
+[04:46:59] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 760 times.
+
+[04:46:59] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 760 times.
+
+[04:46:59] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 760 times.
+
+[04:46:59] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 760 times.
+
+[04:47:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:47:15] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:47:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:47:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:47:23] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:47:28] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player N4ZRN)
+[04:47:46] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity fossil:fossil.coelacanth that already exists with UUID 8fef7ddc-0809-4b52-ae69-34ed24092d14
+[04:47:49] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 765 times.
+
+[04:47:49] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 765 times.
+
+[04:47:49] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 765 times.
+
+[04:47:49] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 765 times.
+
+[04:47:49] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 765 times.
+
+[04:47:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> mmm
+[04:48:08] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [942, -267] in dimension 0 (overworld) while populating chunk [943, -266], causing cascading worldgen lag.
+[04:48:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> ni idea che
+[04:48:09] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [939, -265] in dimension 0 (overworld) while populating chunk [940, -265], causing cascading worldgen lag.
+[04:48:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:09] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [940, -264] in dimension 0 (overworld) while populating chunk [940, -265], causing cascading worldgen lag.
+[04:48:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:09] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [939, -264] in dimension 0 (overworld) while populating chunk [940, -265], causing cascading worldgen lag.
+[04:48:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> ah
+[04:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> parece q
+[04:48:25] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [937, -267] in dimension 0 (overworld) while populating chunk [937, -266], causing cascading worldgen lag.
+[04:48:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> teniendolo en la mano
+[04:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> le da debilidad a todo lo q tenes cerca
+[04:48:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:39] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 770 times.
+
+[04:48:39] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 770 times.
+
+[04:48:39] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 770 times.
+
+[04:48:39] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 770 times.
+
+[04:48:39] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 770 times.
+
+[04:48:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> todos los hostiels
+[04:48:41] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 15104 | -4224 ], underground: true
+[04:48:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> hostiles
+[04:49:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> acabo de edcirte eso down
+[04:49:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:49:30] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 775 times.
+
+[04:49:30] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 775 times.
+
+[04:49:30] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 775 times.
+
+[04:49:30] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 775 times.
+
+[04:49:30] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 775 times.
+
+[04:50:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:19] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 780 times.
+
+[04:50:19] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 780 times.
+
+[04:50:19] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 780 times.
+
+[04:50:19] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 780 times.
+
+[04:50:19] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 780 times.
+
+[04:50:33] [Server thread/WARN] [net.minecraft.world.chunk.Chunk]: Wrong location! (937, -274) should be (937, -275), EntityMyrmexEgg['Myrmex Egg'/1034450, l='world', x=15001.39, y=40.25, z=-4383.57]
+[04:50:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity iceandfire:myrmex_egg but it was marked as removed already
+[04:50:35] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [936, -267] in dimension 0 (overworld) while populating chunk [936, -266], causing cascading worldgen lag.
+[04:50:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:50:37] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [928, -263] in dimension 0 (overworld) while populating chunk [929, -262], causing cascading worldgen lag.
+[04:50:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:50:37] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SmoothStone spawned at [ 14864 | -4192 ], underground: true
+[04:50:40] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3704ms behind, skipping 74 tick(s)
+[04:50:40] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:50:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: N4ZRN moved too quickly! -10.171651976443172,-0.49520087700592796,-0.8421900410712624
+[04:50:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> asd
+[04:50:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> ayer le descubri
+[04:50:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> la contraseña a ramiro
+[04:50:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> JASKDJKASD
+[04:50:54] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Andrew Skywalker is 0.01
+[04:50:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> es lo mas facil del mundo
+[04:51:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> 1234
+[04:51:02] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:51:08] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player ThomyBl)
+[04:51:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> un poquito mas complicada
+[04:51:11] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 785 times.
+
+[04:51:11] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 785 times.
+
+[04:51:11] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 785 times.
+
+[04:51:11] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 785 times.
+
+[04:51:11] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 785 times.
+
+[04:51:36] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:51:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:01] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 790 times.
+
+[04:52:01] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 790 times.
+
+[04:52:01] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 790 times.
+
+[04:52:01] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 790 times.
+
+[04:52:01] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 790 times.
+
+[04:52:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:24] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:24] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:24] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:24] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:24] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:31] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:31] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:32] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:32] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: N4ZRN moved too quickly! 9.799902560131159,-0.1647732818260721,2.7292549666390187
+[04:52:32] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[04:52:32] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:34] [Server thread/WARN] [mca]: No skin found for profession: `openblocks:radio`. A random skin will be generated.
+[04:52:36] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 14992 | -4032 ], underground: false
+[04:52:38] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3692ms behind, skipping 73 tick(s)
+[04:52:44] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [937, -250] in dimension 0 (overworld) while populating chunk [935, -250], causing cascading worldgen lag.
+[04:52:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:52:44] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [936, -249] in dimension 0 (overworld) while populating chunk [935, -250], causing cascading worldgen lag.
+[04:52:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:52:44] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [937, -249] in dimension 0 (overworld) while populating chunk [935, -250], causing cascading worldgen lag.
+[04:52:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:52:54] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 795 times.
+
+[04:52:54] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 795 times.
+
+[04:52:54] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 795 times.
+
+[04:52:54] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 795 times.
+
+[04:52:54] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 795 times.
+
+[04:53:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:53:11] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Andrew Skywalker is 0.01
+[04:53:18] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [949, -260] in dimension 0 (overworld) while populating chunk [950, -259], causing cascading worldgen lag.
+[04:53:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:53:42] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Zombie is 0.01
+[04:53:43] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 800 times.
+
+[04:53:43] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 800 times.
+
+[04:53:43] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 800 times.
+
+[04:53:43] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 800 times.
+
+[04:53:43] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 800 times.
+
+[04:53:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:02] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player ThomyBl)
+[04:54:03] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [930, -247] in dimension 0 (overworld) while populating chunk [930, -248], causing cascading worldgen lag.
+[04:54:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:54:03] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [929, -248] in dimension 0 (overworld) while populating chunk [930, -247], causing cascading worldgen lag.
+[04:54:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:54:03] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [929, -247] in dimension 0 (overworld) while populating chunk [930, -247], causing cascading worldgen lag.
+[04:54:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:54:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> creo q no
+[04:54:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> no tengo idea
+[04:54:27] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Myrmex Royal is 0.001
+[04:54:33] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 805 times.
+
+[04:54:33] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 805 times.
+
+[04:54:33] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 805 times.
+
+[04:54:33] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 805 times.
+
+[04:54:33] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 805 times.
+
+[04:54:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:02] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [950, -259] in dimension 0 (overworld) while populating chunk [950, -260], causing cascading worldgen lag.
+[04:55:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:55:02] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [949, -259] in dimension 0 (overworld) while populating chunk [950, -260], causing cascading worldgen lag.
+[04:55:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:55:22] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 15280 | -4128 ], underground: true
+[04:55:23] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 810 times.
+
+[04:55:23] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 810 times.
+
+[04:55:23] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 810 times.
+
+[04:55:23] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 810 times.
+
+[04:55:23] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 810 times.
+
+[04:55:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:34] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[04:55:34] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID a32785eb-203e-4997-bf9e-7da2ad122340
+[04:56:00] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [952, -253] in dimension 0 (overworld) while populating chunk [951, -253], causing cascading worldgen lag.
+[04:56:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:56:00] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [953, -253] in dimension 0 (overworld) while populating chunk [951, -253], causing cascading worldgen lag.
+[04:56:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:56:00] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [952, -252] in dimension 0 (overworld) while populating chunk [951, -253], causing cascading worldgen lag.
+[04:56:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:56:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:12] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [960, -257] in dimension 0 (overworld) while populating chunk [959, -256], causing cascading worldgen lag.
+[04:56:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:56:14] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 815 times.
+
+[04:56:14] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 815 times.
+
+[04:56:14] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 815 times.
+
+[04:56:14] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 815 times.
+
+[04:56:14] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 815 times.
+
+[04:56:18] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[04:56:20] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[04:56:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Andrew Skywalker is 0.01
+[04:56:21] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[04:56:22] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[04:56:30] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Andrew Skywalker is 0.01
+[04:56:37] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player N4ZRN)
+[04:56:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:03] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 820 times.
+
+[04:57:03] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 820 times.
+
+[04:57:03] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 820 times.
+
+[04:57:03] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 820 times.
+
+[04:57:03] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 820 times.
+
+[04:57:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:47] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[04:57:48] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 15376 | -3952 ], underground: false
+[04:57:49] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [945, -245] in dimension 0 (overworld) while populating chunk [943, -246], causing cascading worldgen lag.
+[04:57:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:57:49] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [944, -245] in dimension 0 (overworld) while populating chunk [943, -246], causing cascading worldgen lag.
+[04:57:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:57:53] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 825 times.
+
+[04:57:53] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 825 times.
+
+[04:57:53] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 825 times.
+
+[04:57:53] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 825 times.
+
+[04:57:53] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 825 times.
+
+[04:57:58] [Server thread/INFO] [Scaling Health]: Blight Husk was killed by N4ZRN
+[04:57:58] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Husk is 0.01
+[04:58:01] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 15168 | -3920 ], underground: false
+[04:58:02] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a heart container (player N4ZRN)
+[04:58:03] [Server thread/WARN] [mca]: No skin found for profession: `oreshrubs:shrub_guy`. A random skin will be generated.
+[04:58:03] [Server thread/WARN] [mca]: No skin found for profession: `minecraft:nitwit`. A random skin will be generated.
+[04:58:03] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[04:58:20] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[04:58:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:43] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 830 times.
+
+[04:58:43] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 830 times.
+
+[04:58:43] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 830 times.
+
+[04:58:43] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 830 times.
+
+[04:58:43] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 830 times.
+
+[04:58:54] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:58:54] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:58:54] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:59:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [965, -244] in dimension 0 (overworld) while populating chunk [965, -245], causing cascading worldgen lag.
+[04:59:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:59:19] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [952, -242] in dimension 0 (overworld) while populating chunk [951, -242], causing cascading worldgen lag.
+[04:59:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:19] [Server thread/WARN] [FML]: Hardcore Battle Towers AV loaded a new chunk [952, -241] in dimension 0 (overworld) while populating chunk [951, -242], causing cascading worldgen lag.
+[04:59:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:20] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 15488 | -4160 ], underground: false
+[04:59:20] [Server thread/WARN] [FML]: DungeonTactics loaded a new chunk [968, -250] in dimension 0 (overworld) while populating chunk [968, -251], causing cascading worldgen lag.
+[04:59:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [972, -259] in dimension 0 (overworld) while populating chunk [971, -258], causing cascading worldgen lag.
+[04:59:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:27] [Server thread/WARN] [mca]: No skin found for profession: `fossil:palaeontologist`. A random skin will be generated.
+[04:59:27] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 15584 | -3984 ], underground: false
+[04:59:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ThomyBl moved too quickly! 9.276332257064496,2.6268061053397673,2.8546259364557045
+[04:59:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: N4ZRN moved too quickly! 9.121334721465246,-0.4828014563238696,-4.584503270305049
+[04:59:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> hola
+[04:59:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <N4ZRN> adssad
+[04:59:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5661ms behind, skipping 113 tick(s)
+[04:59:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FraanG0D> se lageo
+[04:59:31] [Server thread/WARN] [mca]: No skin found for profession: `fossil:archeologist`. A random skin will be generated.
+[04:59:32] [Server thread/WARN] [FML]: Ore Shrubs loaded a new chunk [953, -241] in dimension 0 (overworld) while populating chunk [954, -241], causing cascading worldgen lag.
+[04:59:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:37] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 835 times.
+
+[04:59:37] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 835 times.
+
+[04:59:37] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 835 times.
+
+[04:59:37] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 835 times.
+
+[04:59:37] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 835 times.
+
+[04:59:42] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:skeleton that already exists with UUID 5153dd0f-2e15-43f9-bc81-0a0d9ffc3c65
+[04:59:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:01] [Server thread/INFO] [tombstone]: All players have been successfully backed up
+[05:00:08] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: N4ZRN moved wrongly!
+[05:00:12] [Server thread/DEBUG] [Scaling Health]: heart drop rate for Fire Dragon is 0.001
+[05:00:27] [Server thread/DEBUG] [FML]: The world 5cf8e682 (world) may have leaked: seen 840 times.
+
+[05:00:27] [Server thread/DEBUG] [FML]: The world 7ad78ddf (world) may have leaked: seen 840 times.
+
+[05:00:27] [Server thread/DEBUG] [FML]: The world 6b650221 (world) may have leaked: seen 840 times.
+
+[05:00:27] [Server thread/DEBUG] [FML]: The world 505edf9c (world) may have leaked: seen 840 times.
+
+[05:00:27] [Server thread/DEBUG] [FML]: The world 60d5045a (world) may have leaked: seen 840 times.
+
+[05:00:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[05:00:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
