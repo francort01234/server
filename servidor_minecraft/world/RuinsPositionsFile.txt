@@ -474,6 +474,7 @@
 928 40 381 939 64 417 SunkenShip-v2.tml
 930 70 149 943 102 162 OreSpire.tml
 945 62 1037 952 66 1044 TinyFarmField.tml
+959 68 1139 972 100 1152 OreSpire.tml
 989 43 552 997 60 578 shipwreck.tml
 1017 64 919 1021 66 923 EmeraldOreOutcrop.tml
 1018 62 1019 1021 68 1023 StonePillar.tml
