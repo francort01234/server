@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/convenience/melonslice_from_melon": {
+    "criteria": {
+      "has_melon": "2025-01-08 05:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-01-06 00:18:28 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2025-01-06 00:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-08 05:16:51 +0000"
     },
     "done": true
   },
@@ -330,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-01-08 05:23:59 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/boomglove": {
     "criteria": {
       "has_gunpowder": "2025-01-06 00:30:32 +0000"
@@ -415,9 +433,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2025-01-08 05:16:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-01-06 00:32:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-08 05:24:38 +0000"
     },
     "done": true
   },
@@ -1331,8 +1361,10 @@
       "savanna_rock": "2025-01-06 00:08:01 +0000",
       "ocean": "2025-01-06 00:09:54 +0000",
       "extreme_hills": "2025-01-08 04:45:36 +0000",
+      "roofed_forest": "2025-01-08 05:18:17 +0000",
       "river": "2025-01-06 00:15:59 +0000",
-      "desert": "2025-01-06 00:14:19 +0000"
+      "desert": "2025-01-06 00:14:19 +0000",
+      "stone_beach": "2025-01-08 05:20:34 +0000"
     },
     "done": false
   },
@@ -1462,6 +1494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-01-08 05:09:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-06 00:30:14 +0000"
@@ -1477,6 +1515,12 @@
   "dungeontactics:recipes/armour/studded_armour": {
     "criteria": {
       "has_item": "2025-01-06 00:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2025-01-08 05:16:51 +0000"
     },
     "done": true
   },
