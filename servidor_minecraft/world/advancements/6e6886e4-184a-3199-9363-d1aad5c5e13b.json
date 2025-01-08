@@ -107,9 +107,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/traps/witherweb": {
     "criteria": {
       "has_item": "2025-01-06 04:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -152,6 +164,12 @@
   "dungeontactics:recipes/misc/cushions": {
     "criteria": {
       "has_recipe": "2025-01-06 00:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -234,9 +252,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 04:07:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-06 00:12:38 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/fan_block": {
+    "criteria": {
+      "has_item": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -246,9 +276,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-01-07 04:32:58 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/diamond": {
     "criteria": {
       "has_recipe": "2025-01-06 00:12:35 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/golden_weapons": {
+    "criteria": {
+      "has_item": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -320,6 +362,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-06 00:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-07 04:49:50 +0000"
     },
     "done": true
   },
@@ -395,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-06 00:21:07 +0000"
@@ -419,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-01-07 04:32:58 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/dungeonpedia": {
     "criteria": {
       "has_book": "2025-01-06 20:17:22 +0000"
@@ -428,6 +488,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-01-06 04:13:55 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/obsidianbrick": {
+    "criteria": {
+      "has_item": "2025-01-07 04:07:43 +0000"
     },
     "done": true
   },
@@ -458,6 +524,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-06 00:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_at_least_9_gold_ingot": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -551,9 +623,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-01-07 03:47:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-01-06 00:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -566,6 +650,12 @@
   "cfm:install": {
     "criteria": {
       "tick": "2025-01-06 00:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 04:07:43 +0000"
     },
     "done": true
   },
@@ -643,14 +733,23 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-01-07 04:46:34 +0000",
       "skeleton": "2025-01-06 00:26:32 +0000",
+      "husk": "2025-01-07 04:34:28 +0000",
       "cave_spider": "2025-01-06 00:21:03 +0000",
       "silverfish": "2025-01-06 00:33:38 +0000",
       "zombie": "2025-01-06 00:15:06 +0000",
       "guardian": "2025-01-06 00:35:22 +0000",
+      "spider": "2025-01-07 04:08:56 +0000",
       "enderman": "2025-01-06 00:15:17 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
   },
   "advancedrocketry:normal/root": {
     "criteria": {
@@ -667,6 +766,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-06 00:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-07 04:49:50 +0000"
     },
     "done": true
   },
@@ -724,6 +835,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-01-07 03:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-06 00:10:34 +0000"
@@ -742,15 +865,33 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/armour/golden_plate_armour": {
+    "criteria": {
+      "has_item": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/ration": {
     "criteria": {
       "has_item": "2025-01-06 00:20:28 +0000"
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/engineers_wrench": {
+    "criteria": {
+      "has_recipe": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-06 00:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -808,6 +949,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/traps/powered_fence": {
+    "criteria": {
+      "has_item": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-06 00:10:28 +0000"
@@ -817,6 +964,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-06 00:10:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -862,6 +1015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-06 00:32:46 +0000"
@@ -871,6 +1030,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-01-06 00:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
     },
     "done": true
   },
@@ -895,6 +1060,18 @@
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-01-06 00:27:28 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/bagofhoarding": {
+    "criteria": {
+      "has_recipe": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-07 04:49:50 +0000"
     },
     "done": true
   },
@@ -960,6 +1137,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-07 04:07:43 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/fire_starter": {
     "criteria": {
       "has_item": "2025-01-06 00:10:34 +0000"
@@ -1014,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/lantern_iron": {
     "criteria": {
       "has_torch": "2025-01-06 00:20:55 +0000"
@@ -1045,6 +1234,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-06 00:30:03 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 04:07:43 +0000"
     },
     "done": true
   },
@@ -1162,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 04:16:27 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/armour/studded_armour": {
     "criteria": {
       "has_item": "2025-01-06 00:32:46 +0000"
@@ -1183,6 +1384,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2025-01-06 00:08:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-01-07 04:49:50 +0000"
     },
     "done": true
   },
@@ -1249,6 +1456,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-01-06 00:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-01-07 03:47:56 +0000"
     },
     "done": true
   },
